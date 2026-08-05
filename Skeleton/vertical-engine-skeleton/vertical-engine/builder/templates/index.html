@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}Vertical Trail Labs — Inteligencia de rendimiento en trail running{% endblock %}
+
+{% block content %}
+<section class="homepage">
+  <h1>Vertical Trail Labs</h1>
+  <p>Análisis de rendimiento en trail running mediante VPI, DMI y ER.</p>
+
+  <h2>Últimas carreras</h2>
+  <ul class="race-grid">
+    {% for r in races %}
+    <li><a href="/races/{{ r.slug }}/">{{ r.name }} {{ r.year }}</a></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endblock %}

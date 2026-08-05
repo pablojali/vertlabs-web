@@ -1,0 +1,121 @@
+<!--  Runner Metrics
+A
+ARKARAZO LEGARRETA, Ainara
+AZKUNE CORDON, Josu
+B
+BARTHOLOMEW, Lucy 
+BES, Agathe 
+BISSON, Maxime
+BLUMBERG, Kellen 
+BONNECARRERE, Gautier
+BRASSAC, Remy
+BUDHA, Sunmaya
+C
+CALVO VIGARA, Julen
+CARRETERO, Abel
+CASSAN-FERRIER, Alexandra
+CUELLO CAPISTRÓS, Sandra
+CSILLAG, Eszter 
+
+D
+DE MOUSTIER, Viva
+DIVERREZ, Jean-Marie
+DOMBROWSKA, Katarzyna
+DUE-GUNDERSEN, Ingrid
+DUVIVIER, Thomas
+
+E
+ENJALBERT, Bastien
+
+F
+FENRE, Mari Klakegg
+FEUTRIER, Fabien 
+FETVEIT, Are
+FILIPPINI, Cristina 
+FINSTAD, Lasse 
+FRAŇO, Peter 
+G
+GEISER, Tobias 
+GEISSLER, Sylvie
+GOIKOLEA LARRAURI, Igor
+GOMIS, Enrique 
+GONCALVES, Marie
+GRAS, Manon 
+GRIHON, Salomé
+GUIDOLIN, Nicol
+
+H
+HIVERT, Pierre-Adrien
+HOWE, Stephanie
+
+I
+IANINA, Anastasiia
+Bogdan IBANESCU
+J
+JUILLAGUET, Robin 
+K
+KAGEYAMA, Junko
+KAKWIATKOWSKA, Kinga
+KRASZPULS, Magdalena 
+KRISTINSDÓTTIR, Elísa 
+L
+LERAY, Matis
+LESCUYER, Camille
+LOUDEN, Anna 
+LUQUE GONZALEZ, Daniel
+M
+MARCHESONI, Giulia
+MUGNIER, Clément 
+N
+NAMBERGER, Hannes
+NAKROSIUTE, Vaida 
+NAPIWOTZKI, Sarah
+O
+
+P
+PETERS, Ethan 
+PONS, Mirea
+PORQUERAS, Genis
+PRZEDWOJEWSKI, Bart
+Q
+
+R
+REITERER, Andreas
+RIEDER, Andreas 
+RIUS, Carolina
+RIUS, Pau
+ROGAUME, Leo 
+RUEDA, Santos Gabriel
+RZESZÓTKO, Marcin
+S
+SALA, Moreno
+SAWADA, Yukiko
+SERRET, Marta
+SIO, Aroa
+SORIANO, Théo
+STUART, Emma 
+T
+TAKEICHI, Kaori
+TREMONT, Benjamin
+TREMP, Claudia
+TORTADÈS VERDAGUER, Erola
+
+U
+UNGERICHT, Stefan 
+V
+VANSTEENKISTE, Arthur
+VILLA GONGORA, Delbi
+Y
+YAO, Miao
+YOUNG, Arden 
+
+Z
+ZAHLAUER, Susanne 
+ZANCONATO, Andrea 
+-->
+
+
+
+
+
+
