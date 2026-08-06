@@ -1,17 +1,20 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Buscar — Vertical Trail Labs</title>
-  <meta name="description" content="Vertical Trail Labs analiza el rendimiento en trail running con tres métricas propias: VPI (escalada), DMI (descenso) y ER (resistencia).">
+  <title>Search — Vertical Trail Labs</title>
+  <meta name="description" content="Independent trail running intelligence powered by proprietary performance analytics. Explore races, compare athletes, and understand performance beyond the results.">
   <link rel="canonical" href="https://vertlabs.run/search/">
+  <link rel="alternate" hreflang="en" href="https://vertlabs.run/search/">
+  <link rel="alternate" hreflang="es" href="https://vertlabs.run/es/search/">
+  <link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/search/">
 
   <meta property="og:site_name" content="Vertical Trail Labs">
   <meta property="og:title" content="Vertical Trail Labs">
-  <meta property="og:description" content="Análisis de rendimiento en trail running: VPI, DMI y ER.">
+  <meta property="og:description" content="Independent trail running intelligence powered by proprietary performance analytics. Explore races, compare athletes, and understand performance beyond the results.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://vertlabs.run/">
+  <meta property="og:url" content="https://vertlabs.run/search/">
   <meta name="twitter:card" content="summary_large_image">
 
   <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
@@ -19,27 +22,31 @@
 </head>
 <body>
   <header class="site-header">
-    <a href="/" class="logo">Vertical<span>Trail</span>Labs</a>
-    <nav>
-      <a href="/races/">Carreras</a>
-      <a href="/athletes/">Atletas</a>
+    <a href="/" class="logo">Vertical<span class="logo-trail">Trail</span>Labs</a>
+
+    <nav class="main-nav" aria-label="Main">
+      <a href="/races/">Races</a>
+      <a href="/athletes/">Athletes</a>
       <a href="/rankings/">Rankings</a>
-      <a href="/about/">El Engine</a>
-      <a href="/search/" class="search-link" aria-label="Buscar">Buscar</a>
+      <a href="/about/">Engine</a>
+      <a href="/search/" class="search-link" aria-label="Search">Search</a>
     </nav>
+
+    <div class="lang-switcher" aria-label="Language">
+      <a href="/search/" class="active">EN</a><span class="lang-sep">·</span>      <a href="/es/search/" class="">ES</a><span class="lang-sep">·</span>      <a href="/fr/search/" class="">FR</a>    </div>
   </header>
 
   <main>
-<section class="search-page">
-  <h1>Buscar</h1>
-  <input type="search" id="search-input" placeholder="Carrera o atleta..." autofocus>
+<section class="search-page" data-search-url="/search.json">
+  <h1>Search</h1>
+  <input type="search" id="search-input" placeholder="Race or athlete..." autofocus>
   <ul id="search-results" class="search-results"></ul>
 </section>
   </main>
 
   <footer class="site-footer">
     <p>&copy; 2026 Vertical Trail Labs — VPI · DMI · ER</p>
-    <p class="site-footer-sub">Motor de análisis de rendimiento en trail running.</p>
+    <p class="site-footer-sub">Trail running performance engine.</p>
   </footer>
 
   <script src="/assets/js/search.js" defer></script>

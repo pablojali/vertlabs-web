@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Le Moteur — Vertical Trail Labs</title>
+  <meta name="description" content="Vertical Trail Labs n&#39;est ni un blog ni un CMS. C&#39;est un moteur d&#39;intelligence de données dont le résultat final est ce site statique : le site ne calcule jamais rien, il affiche uniquement ce que le Moteur a déjà calculé à partir du GPX officiel de chaque course et des temps de passage aux points de contrôle.">
+  <link rel="canonical" href="https://vertlabs.run/fr/about/">
+  <link rel="alternate" hreflang="en" href="https://vertlabs.run/about/">
+  <link rel="alternate" hreflang="es" href="https://vertlabs.run/es/about/">
+  <link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/about/">
+
+  <meta property="og:site_name" content="Vertical Trail Labs">
+  <meta property="og:title" content="Vertical Trail Labs">
+  <meta property="og:description" content="Intelligence indépendante du trail running propulsée par une analyse de performance propriétaire. Explorez les courses, comparez les athlètes et comprenez la performance au-delà des résultats.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://vertlabs.run/fr/about/">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="/fr/" class="logo">Vertical<span class="logo-trail">Trail</span>Labs</a>
+
+    <nav class="main-nav" aria-label="Main">
+      <a href="/fr/races/">Courses</a>
+      <a href="/fr/athletes/">Athlètes</a>
+      <a href="/fr/rankings/">Classements</a>
+      <a href="/fr/about/">Le Moteur</a>
+      <a href="/fr/search/" class="search-link" aria-label="Rechercher">Rechercher</a>
+    </nav>
+
+    <div class="lang-switcher" aria-label="Language">
+      <a href="/about/" class="">EN</a><span class="lang-sep">·</span>      <a href="/es/about/" class="">ES</a><span class="lang-sep">·</span>      <a href="/fr/about/" class="active">FR</a>    </div>
+  </header>
+
+  <main>
+<article class="about-page">
+  <h1>Le Moteur</h1>
+  <p class="hero-sub">Vertical Trail Labs n&#39;est ni un blog ni un CMS. C&#39;est un moteur d&#39;intelligence de données dont le résultat final est ce site statique : le site ne calcule jamais rien, il affiche uniquement ce que le Moteur a déjà calculé à partir du GPX officiel de chaque course et des temps de passage aux points de contrôle.</p>
+
+  <details class="metric-accordion metric-vpi" open>
+    <summary>🧗 VPI — Vertical Power Index</summary>
+    <div class="metric-accordion-body">
+      <p>Mètres de dénivelé positif par heure, mesurés uniquement sur les tronçons à forte pente (≥12%). Mesure l&#39;efficacité pure en montée et la puissance spécifique sur fort dénivelé.</p>
+      <p class="formula">VPI = Σ(dénivelé+ sur tronçons ≥12%) / Σ(temps de l&#39;athlète sur ces tronçons)</p>
+    </div>
+  </details>
+
+  <details class="metric-accordion metric-dmi">
+    <summary>📉 DMI — Descent Mastery Index</summary>
+    <div class="metric-accordion-body">
+      <p>Vitesse (km/h) sur les tronçons à forte descente (≤-12%). Mesure la technicité en descente et la résilience musculaire face à la charge excentrique.</p>
+      <p class="formula">DMI = Σ(distance sur tronçons ≤-12%) / Σ(temps de l&#39;athlète sur ces tronçons)</p>
+    </div>
+  </details>
+
+  <details class="metric-accordion metric-er">
+    <summary>🏆 ER — Endurance Rating</summary>
+    <div class="metric-accordion-body">
+      <p>Score de 0 à 100 mesurant la dégradation du rythme entre la première et la seconde moitié de la course, mesurée en kilomètres d&#39;effort (distance + dénivelé/100) plutôt qu&#39;en distance brute.</p>
+      <p class="formula">ER = 100 − (décroissance du rythme % entre les moitiés)</p>
+    </div>
+  </details>
+
+  <h2>Flux de données</h2>
+  <p class="formula">Moteur (Python) → JSON → Builder (Jinja2) → HTML statique → Cloudflare Pages</p>
+</article>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Vertical Trail Labs — VPI · DMI · ER</p>
+    <p class="site-footer-sub">Moteur d&#39;analyse de performance en trail running.</p>
+  </footer>
+
+  <script src="/assets/js/search.js" defer></script>
+</body>
+</html>
