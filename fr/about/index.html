@@ -17,12 +17,15 @@
   <meta property="og:url" content="https://vertlabs.run/fr/about/">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/assets/img/favicon.png" type="image/png">
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
   <header class="site-header">
-    <a href="/fr/" class="logo">Vertical<span class="logo-trail">Trail</span>Labs</a>
+    <a href="/fr/" class="logo">
+      <img src="/assets/img/logo.png" alt="" class="logo-mark" width="40" height="46">
+      <span class="logo-text">Vertical<span class="logo-trail">Trail</span>Labs</span>
+    </a>
 
     <nav class="main-nav" aria-label="Main">
       <a href="/fr/races/">Courses</a>
@@ -43,7 +46,7 @@
   <p class="hero-sub">Chaque course cache une histoire dans son terrain. Le Vertical Trail Engine transforme les profils officiels de course et les données de points de contrôle en intelligence de performance objective, révélant comment les athlètes grimpent, descendent et endurent réellement.</p>
   <p class="hero-sub about-emphasis">Notre méthodologie propriétaire va au-delà des temps d&#39;arrivée pour mesurer la performance dans le contexte du terrain lui-même.</p>
 
-  <details class="metric-accordion metric-vpi" open>
+  <details class="metric-accordion metric-vpi" id="vpi" open>
     <summary>🧗 VPI — Vertical Power Index</summary>
     <div class="metric-accordion-body">
       <p>Mètres de dénivelé positif par heure, mesurés uniquement sur les tronçons à forte pente (≥12%). Mesure l&#39;efficacité pure en montée et la puissance spécifique sur fort dénivelé.</p>
@@ -51,7 +54,7 @@
     </div>
   </details>
 
-  <details class="metric-accordion metric-dmi">
+  <details class="metric-accordion metric-dmi" id="dmi">
     <summary>📉 DMI — Descent Mastery Index</summary>
     <div class="metric-accordion-body">
       <p>Vitesse (km/h) sur les tronçons à forte descente (≤-12%). Mesure la technicité en descente et la résilience musculaire face à la charge excentrique.</p>
@@ -59,7 +62,7 @@
     </div>
   </details>
 
-  <details class="metric-accordion metric-er">
+  <details class="metric-accordion metric-er" id="er">
     <summary>🏆 ER — Endurance Rating</summary>
     <div class="metric-accordion-body">
       <p>Score de 0 à 100 mesurant la dégradation du rythme entre la première et la seconde moitié de la course, mesurée en kilomètres d&#39;effort (distance + dénivelé/100) plutôt qu&#39;en distance brute.</p>
@@ -67,6 +70,17 @@
     </div>
   </details>
 </article>
+<script>
+  (function () {
+    var id = location.hash.slice(1);
+    if (!id) return;
+    var el = document.getElementById(id);
+    if (el && el.tagName === "DETAILS") {
+      el.open = true;
+      el.scrollIntoView({ block: "start" });
+    }
+  })();
+</script>
   </main>
 
   <footer class="site-footer">

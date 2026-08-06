@@ -17,12 +17,15 @@
   <meta property="og:url" content="https://vertlabs.run/es/about/">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/assets/img/favicon.png" type="image/png">
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
   <header class="site-header">
-    <a href="/es/" class="logo">Vertical<span class="logo-trail">Trail</span>Labs</a>
+    <a href="/es/" class="logo">
+      <img src="/assets/img/logo.png" alt="" class="logo-mark" width="40" height="46">
+      <span class="logo-text">Vertical<span class="logo-trail">Trail</span>Labs</span>
+    </a>
 
     <nav class="main-nav" aria-label="Main">
       <a href="/es/races/">Carreras</a>
@@ -43,7 +46,7 @@
   <p class="hero-sub">Cada carrera esconde una historia en su terreno. El Vertical Trail Engine transforma los perfiles oficiales de carrera y los datos de checkpoints en inteligencia de rendimiento objetiva, revelando cómo los atletas realmente escalan, descienden y resisten.</p>
   <p class="hero-sub about-emphasis">Nuestra metodología propia va más allá de los tiempos finales para medir el rendimiento en el contexto del terreno mismo.</p>
 
-  <details class="metric-accordion metric-vpi" open>
+  <details class="metric-accordion metric-vpi" id="vpi" open>
     <summary>🧗 VPI — Vertical Power Index</summary>
     <div class="metric-accordion-body">
       <p>Metros de desnivel positivo por hora, medidos únicamente en los tramos de fuerte pendiente (≥12%). Mide la eficiencia y potencia específica en subida severa.</p>
@@ -51,7 +54,7 @@
     </div>
   </details>
 
-  <details class="metric-accordion metric-dmi">
+  <details class="metric-accordion metric-dmi" id="dmi">
     <summary>📉 DMI — Descent Mastery Index</summary>
     <div class="metric-accordion-body">
       <p>Velocidad (km/h) en los tramos de fuerte descenso (≤-12%). Mide la habilidad técnica de bajada y la resiliencia muscular frente a la carga excéntrica.</p>
@@ -59,7 +62,7 @@
     </div>
   </details>
 
-  <details class="metric-accordion metric-er">
+  <details class="metric-accordion metric-er" id="er">
     <summary>🏆 ER — Endurance Rating</summary>
     <div class="metric-accordion-body">
       <p>Score de 0 a 100 que mide la degradación de ritmo entre la primera y la segunda mitad de la carrera, medida en kilómetros de esfuerzo (distancia + desnivel/100) en vez de kilómetros crudos.</p>
@@ -67,6 +70,17 @@
     </div>
   </details>
 </article>
+<script>
+  (function () {
+    var id = location.hash.slice(1);
+    if (!id) return;
+    var el = document.getElementById(id);
+    if (el && el.tagName === "DETAILS") {
+      el.open = true;
+      el.scrollIntoView({ block: "start" });
+    }
+  })();
+</script>
   </main>
 
   <footer class="site-footer">
