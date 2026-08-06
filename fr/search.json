@@ -10,6 +10,16 @@
     "url": "/fr/races/lavaredo-2026/"
   },
   {
+    "type": "race",
+    "title": "Val d'Aran by UTMB 2026",
+    "url": "/fr/races/val-d-aran-by-utmb-2026/"
+  },
+  {
+    "type": "athlete",
+    "title": "Delbi VILLA GONGORA",
+    "url": "/fr/athletes/delbi-villa-gongora/"
+  },
+  {
     "type": "athlete",
     "title": "Elena Martí",
     "url": "/fr/athletes/elena-marti/"
@@ -18,6 +28,16 @@
     "type": "athlete",
     "title": "Noa Lindqvist",
     "url": "/fr/athletes/noa-lindqvist/"
+  },
+  {
+    "type": "athlete",
+    "title": "Santos Gabriel RUEDA",
+    "url": "/fr/athletes/santos-gabriel-rueda/"
+  },
+  {
+    "type": "athlete",
+    "title": "Théo SORIANO",
+    "url": "/fr/athletes/theo-soriano/"
   },
   {
     "type": "athlete",
