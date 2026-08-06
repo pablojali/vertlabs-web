@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vertlabs.run/sitemap.xml

@@ -1,0 +1,27 @@
+[
+  {
+    "type": "race",
+    "title": "Val d'Aran by UTMB 2026",
+    "url": "/races/aran-2026/"
+  },
+  {
+    "type": "race",
+    "title": "Lavaredo Ultra Trail 2026",
+    "url": "/races/lavaredo-2026/"
+  },
+  {
+    "type": "athlete",
+    "title": "Elena Martí",
+    "url": "/athletes/elena-marti/"
+  },
+  {
+    "type": "athlete",
+    "title": "Noa Lindqvist",
+    "url": "/athletes/noa-lindqvist/"
+  },
+  {
+    "type": "athlete",
+    "title": "Tomas Reiner",
+    "url": "/athletes/tomas-reiner/"
+  }
+]
