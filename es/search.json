@@ -2,32 +2,12 @@
   {
     "type": "race",
     "title": "Val d'Aran by UTMB 2026",
-    "url": "/es/races/aran-2026/"
-  },
-  {
-    "type": "race",
-    "title": "Lavaredo Ultra Trail 2026",
-    "url": "/es/races/lavaredo-2026/"
-  },
-  {
-    "type": "race",
-    "title": "Val d'Aran by UTMB 2026",
     "url": "/es/races/val-d-aran-by-utmb-2026/"
   },
   {
     "type": "athlete",
     "title": "Delbi VILLA GONGORA",
     "url": "/es/athletes/delbi-villa-gongora/"
-  },
-  {
-    "type": "athlete",
-    "title": "Elena Martí",
-    "url": "/es/athletes/elena-marti/"
-  },
-  {
-    "type": "athlete",
-    "title": "Noa Lindqvist",
-    "url": "/es/athletes/noa-lindqvist/"
   },
   {
     "type": "athlete",
@@ -38,10 +18,5 @@
     "type": "athlete",
     "title": "Théo SORIANO",
     "url": "/es/athletes/theo-soriano/"
-  },
-  {
-    "type": "athlete",
-    "title": "Tomas Reiner",
-    "url": "/es/athletes/tomas-reiner/"
   }
 ]
