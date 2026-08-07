@@ -91,6 +91,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/search/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/races/val-d-aran-by-utmb-2026-110k/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/val-d-aran-by-utmb-2026-110k/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/val-d-aran-by-utmb-2026-110k/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/val-d-aran-by-utmb-2026-110k/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/races/val-d-aran-by-utmb-2026-110k/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/val-d-aran-by-utmb-2026-110k/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/val-d-aran-by-utmb-2026-110k/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/val-d-aran-by-utmb-2026-110k/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/races/val-d-aran-by-utmb-2026-110k/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/val-d-aran-by-utmb-2026-110k/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/val-d-aran-by-utmb-2026-110k/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/val-d-aran-by-utmb-2026-110k/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/races/val-d-aran-by-utmb-2026/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/val-d-aran-by-utmb-2026/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/val-d-aran-by-utmb-2026/"/>
@@ -125,6 +143,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/delbi-villa-gongora/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/delbi-villa-gongora/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/delbi-villa-gongora/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/gautier-bonnecarrere/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/gautier-bonnecarrere/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/gautier-bonnecarrere/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/gautier-bonnecarrere/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/gautier-bonnecarrere/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/gautier-bonnecarrere/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/gautier-bonnecarrere/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/gautier-bonnecarrere/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/gautier-bonnecarrere/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/gautier-bonnecarrere/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/gautier-bonnecarrere/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/gautier-bonnecarrere/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/santos-gabriel-rueda/</loc>
