@@ -1,14 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://vertlabs.run/</loc></url>
-  <url><loc>https://vertlabs.run/races/</loc></url>
-  <url><loc>https://vertlabs.run/athletes/</loc></url>
-  <url><loc>https://vertlabs.run/rankings/</loc></url>
-  <url><loc>https://vertlabs.run/about/</loc></url>
-  <url><loc>https://vertlabs.run/search/</loc></url>
-  <url><loc>https://vertlabs.run/races/aran-2026/</loc></url>
-  <url><loc>https://vertlabs.run/races/lavaredo-2026/</loc></url>
-  <url><loc>https://vertlabs.run/athletes/elena-marti/</loc></url>
-  <url><loc>https://vertlabs.run/athletes/noa-lindqvist/</loc></url>
-  <url><loc>https://vertlabs.run/athletes/tomas-reiner/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://vertlabs.run/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/races/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/races/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/races/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/about/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/about/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/about/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/about/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/search/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/search/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/search/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/search/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/search/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/search/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/search/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/search/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/search/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/search/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/search/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/search/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/races/val-d-aran-by-utmb-2026-110k/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/val-d-aran-by-utmb-2026-110k/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/val-d-aran-by-utmb-2026-110k/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/val-d-aran-by-utmb-2026-110k/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/races/val-d-aran-by-utmb-2026-110k/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/val-d-aran-by-utmb-2026-110k/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/val-d-aran-by-utmb-2026-110k/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/val-d-aran-by-utmb-2026-110k/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/races/val-d-aran-by-utmb-2026-110k/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/val-d-aran-by-utmb-2026-110k/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/val-d-aran-by-utmb-2026-110k/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/val-d-aran-by-utmb-2026-110k/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/races/val-d-aran-by-utmb-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/val-d-aran-by-utmb-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/val-d-aran-by-utmb-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/val-d-aran-by-utmb-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/races/val-d-aran-by-utmb-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/val-d-aran-by-utmb-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/val-d-aran-by-utmb-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/val-d-aran-by-utmb-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/races/val-d-aran-by-utmb-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/val-d-aran-by-utmb-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/val-d-aran-by-utmb-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/val-d-aran-by-utmb-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/delbi-villa-gongora/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/delbi-villa-gongora/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/delbi-villa-gongora/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/delbi-villa-gongora/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/delbi-villa-gongora/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/delbi-villa-gongora/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/delbi-villa-gongora/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/delbi-villa-gongora/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/delbi-villa-gongora/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/delbi-villa-gongora/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/delbi-villa-gongora/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/delbi-villa-gongora/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/gautier-bonnecarrere/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/gautier-bonnecarrere/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/gautier-bonnecarrere/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/gautier-bonnecarrere/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/gautier-bonnecarrere/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/gautier-bonnecarrere/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/gautier-bonnecarrere/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/gautier-bonnecarrere/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/gautier-bonnecarrere/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/gautier-bonnecarrere/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/gautier-bonnecarrere/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/gautier-bonnecarrere/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/katarzyna-dombrowska/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/katarzyna-dombrowska/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/katarzyna-dombrowska/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/katarzyna-dombrowska/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/katarzyna-dombrowska/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/katarzyna-dombrowska/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/katarzyna-dombrowska/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/katarzyna-dombrowska/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/katarzyna-dombrowska/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/katarzyna-dombrowska/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/katarzyna-dombrowska/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/katarzyna-dombrowska/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/santos-gabriel-rueda/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/santos-gabriel-rueda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/santos-gabriel-rueda/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/santos-gabriel-rueda/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/santos-gabriel-rueda/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/santos-gabriel-rueda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/santos-gabriel-rueda/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/santos-gabriel-rueda/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/santos-gabriel-rueda/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/santos-gabriel-rueda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/santos-gabriel-rueda/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/santos-gabriel-rueda/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/theo-soriano/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/theo-soriano/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/theo-soriano/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/theo-soriano/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/theo-soriano/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/theo-soriano/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/theo-soriano/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/theo-soriano/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/theo-soriano/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/theo-soriano/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/theo-soriano/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/theo-soriano/"/>
+  </url>
 </urlset>

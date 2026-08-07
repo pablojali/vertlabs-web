@@ -1,52 +1,76 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Atletas — Vertical Trail Labs</title>
-  <meta name="description" content="Vertical Trail Labs analiza el rendimiento en trail running con tres métricas propias: VPI (escalada), DMI (descenso) y ER (resistencia).">
+  <title>Athletes — Vertical Trail Labs</title>
+  <meta name="description" content="Independent trail running intelligence powered by proprietary performance analytics. Explore races, compare athletes, and understand performance beyond the results.">
   <link rel="canonical" href="https://vertlabs.run/athletes/">
+  <link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/">
+  <link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/">
+  <link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/">
 
   <meta property="og:site_name" content="Vertical Trail Labs">
   <meta property="og:title" content="Vertical Trail Labs">
-  <meta property="og:description" content="Análisis de rendimiento en trail running: VPI, DMI y ER.">
+  <meta property="og:description" content="Independent trail running intelligence powered by proprietary performance analytics. Explore races, compare athletes, and understand performance beyond the results.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://vertlabs.run/">
+  <meta property="og:url" content="https://vertlabs.run/athletes/">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/assets/img/favicon.png" type="image/png">
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
   <header class="site-header">
-    <a href="/" class="logo">Vertical<span>Trail</span>Labs</a>
-    <nav>
-      <a href="/races/">Carreras</a>
-      <a href="/athletes/">Atletas</a>
-      <a href="/rankings/">Rankings</a>
-      <a href="/about/">El Engine</a>
-      <a href="/search/" class="search-link" aria-label="Buscar">Buscar</a>
+    <div class="header-top">
+      <a href="/" class="logo">
+        <img src="/assets/img/logo.png" alt="" class="logo-mark" width="40" height="46">
+        <span class="logo-text-wrap">
+          <span class="logo-text">Vertical<span class="logo-trail">Trail</span>Labs</span>
+          <span class="logo-tagline">Vertlabs Intelligences Terrain Engine TM v1.0</span>
+        </span>
+      </a>
+
+      <div class="lang-switcher" aria-label="Language">
+        <a href="/athletes/" class="active">EN</a><span class="lang-sep">·</span>        <a href="/es/athletes/" class="">ES</a><span class="lang-sep">·</span>        <a href="/fr/athletes/" class="">FR</a>      </div>
+    </div>
+
+    <nav class="main-nav" aria-label="Main">
+      <a href="/races/">Races</a>
+      <a href="/athletes/">Athletes</a>
+<a href="/about/">Engine</a>
+      <a href="/search/" class="search-link" aria-label="Search">Search</a>
     </nav>
   </header>
 
   <main>
 <section class="homepage-section">
-  <h1>Atletas</h1>
+  <h1>Athletes</h1>
   <ul class="athlete-grid">
     <li class="athlete-card">
-      <a href="/athletes/elena-marti/">
-<img src="/athletes/elena-marti/images/portrait.svg" alt="" loading="lazy">        <span class="athlete-card-name">Elena Martí</span>
-<span class="athlete-card-meta">ESP</span>      </a>
+      <a href="/athletes/delbi-villa-gongora/">
+<img src="/media/athletes/delbi-villa-gongora/images/portrait.png" alt="" loading="lazy">        <span class="athlete-card-name">Delbi VILLA GONGORA</span>
+      </a>
     </li>
     <li class="athlete-card">
-      <a href="/athletes/noa-lindqvist/">
-<img src="/athletes/noa-lindqvist/images/portrait.svg" alt="" loading="lazy">        <span class="athlete-card-name">Noa Lindqvist</span>
-<span class="athlete-card-meta">SWE</span>      </a>
+      <a href="/athletes/gautier-bonnecarrere/">
+<img src="/media/athletes/gautier-bonnecarrere/images/portrait.png" alt="" loading="lazy">        <span class="athlete-card-name">Gautier BONNECARRERE</span>
+      </a>
     </li>
     <li class="athlete-card">
-      <a href="/athletes/tomas-reiner/">
-<img src="/athletes/tomas-reiner/images/portrait.svg" alt="" loading="lazy">        <span class="athlete-card-name">Tomas Reiner</span>
-<span class="athlete-card-meta">AUT</span>      </a>
+      <a href="/athletes/katarzyna-dombrowska/">
+<img src="/media/athletes/katarzyna-dombrowska/images/portrait.jpg" alt="" loading="lazy">        <span class="athlete-card-name">Katarzyna DOMBROWSKA</span>
+      </a>
+    </li>
+    <li class="athlete-card">
+      <a href="/athletes/santos-gabriel-rueda/">
+<img src="/media/athletes/santos-gabriel-rueda/images/portrait.jpg" alt="" loading="lazy">        <span class="athlete-card-name">Santos Gabriel RUEDA</span>
+      </a>
+    </li>
+    <li class="athlete-card">
+      <a href="/athletes/theo-soriano/">
+<img src="/media/athletes/theo-soriano/images/portrait.jpg" alt="" loading="lazy">        <span class="athlete-card-name">Théo SORIANO</span>
+      </a>
     </li>
   </ul>
 </section>
@@ -54,9 +78,11 @@
 
   <footer class="site-footer">
     <p>&copy; 2026 Vertical Trail Labs — VPI · DMI · ER</p>
-    <p class="site-footer-sub">Motor de análisis de rendimiento en trail running.</p>
+    <p class="site-footer-sub">Trail running performance engine.</p>
   </footer>
 
   <script src="/assets/js/search.js" defer></script>
+  <script src="/assets/js/carousel.js" defer></script>
+  <script src="/assets/js/report-frame.js" defer></script>
 </body>
 </html>

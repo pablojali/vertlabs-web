@@ -1,70 +1,99 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>El Engine — Vertical Trail Labs</title>
-  <meta name="description" content="Cómo se calculan VPI, DMI y ER: metodología del Engine de Vertical Trail Labs.">
+  <title>The Engine — Vertical Trail Labs</title>
+  <meta name="description" content="Every race tells a story hidden in its terrain. The Vertical Trail Engine transforms official race profiles and checkpoint data into objective performance intelligence, revealing how athletes truly climb, descend, and endure.">
   <link rel="canonical" href="https://vertlabs.run/about/">
+  <link rel="alternate" hreflang="en" href="https://vertlabs.run/about/">
+  <link rel="alternate" hreflang="es" href="https://vertlabs.run/es/about/">
+  <link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/about/">
 
   <meta property="og:site_name" content="Vertical Trail Labs">
   <meta property="og:title" content="Vertical Trail Labs">
-  <meta property="og:description" content="Análisis de rendimiento en trail running: VPI, DMI y ER.">
+  <meta property="og:description" content="Independent trail running intelligence powered by proprietary performance analytics. Explore races, compare athletes, and understand performance beyond the results.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://vertlabs.run/">
+  <meta property="og:url" content="https://vertlabs.run/about/">
   <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/assets/img/favicon.png" type="image/png">
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
   <header class="site-header">
-    <a href="/" class="logo">Vertical<span>Trail</span>Labs</a>
-    <nav>
-      <a href="/races/">Carreras</a>
-      <a href="/athletes/">Atletas</a>
-      <a href="/rankings/">Rankings</a>
-      <a href="/about/">El Engine</a>
-      <a href="/search/" class="search-link" aria-label="Buscar">Buscar</a>
+    <div class="header-top">
+      <a href="/" class="logo">
+        <img src="/assets/img/logo.png" alt="" class="logo-mark" width="40" height="46">
+        <span class="logo-text-wrap">
+          <span class="logo-text">Vertical<span class="logo-trail">Trail</span>Labs</span>
+          <span class="logo-tagline">Vertlabs Intelligences Terrain Engine TM v1.0</span>
+        </span>
+      </a>
+
+      <div class="lang-switcher" aria-label="Language">
+        <a href="/about/" class="active">EN</a><span class="lang-sep">·</span>        <a href="/es/about/" class="">ES</a><span class="lang-sep">·</span>        <a href="/fr/about/" class="">FR</a>      </div>
+    </div>
+
+    <nav class="main-nav" aria-label="Main">
+      <a href="/races/">Races</a>
+      <a href="/athletes/">Athletes</a>
+<a href="/about/">Engine</a>
+      <a href="/search/" class="search-link" aria-label="Search">Search</a>
     </nav>
   </header>
 
   <main>
 <article class="about-page">
-  <h1>El Engine</h1>
-  <p class="hero-sub">
-    Vertical Trail Labs no es un blog ni un CMS. Es un motor de inteligencia de datos
-    cuyo resultado final es esta web estática: el sitio nunca calcula nada, solo muestra
-    lo que el Engine ya calculó a partir del GPX oficial de cada carrera y los tiempos de
-    paso por checkpoint.
-  </p>
+  <h1>The Engine</h1>
+  <p class="about-eyebrow">Terrain Intelligence Engine™ v1.0.</p>
+  <p class="hero-sub">Every race tells a story hidden in its terrain. The Vertical Trail Engine transforms official race profiles and checkpoint data into objective performance intelligence, revealing how athletes truly climb, descend, and endure.</p>
+  <p class="hero-sub about-emphasis">Our proprietary methodology goes beyond finishing times to measure performance in the context of the terrain itself.</p>
 
-  <h2>🧗 VPI — Vertical Power Index</h2>
-  <p>Metros de desnivel positivo por hora, medidos únicamente en los tramos de fuerte
-    pendiente (≥12%). Mide la eficiencia y potencia específica en subida severa.</p>
-  <p class="formula">VPI = Σ(desnivel+ en tramos ≥12%) / Σ(tiempo del atleta en esos tramos)</p>
+  <details class="metric-accordion metric-vpi" id="vpi" open>
+    <summary>🧗 VPI — Vertical Power Index</summary>
+    <div class="metric-accordion-body">
+      <p>Meters of elevation gain per hour, measured only on strong-climb segments (slope ≥12%). Measures pure climbing efficiency and specific power output on severe vertical gains.</p>
+      <p class="formula">VPI = Σ(elevation gain on segments ≥12%) / Σ(athlete time on those segments)</p>
+    </div>
+  </details>
 
-  <h2>📉 DMI — Descent Mastery Index</h2>
-  <p>Velocidad (km/h) en los tramos de fuerte descenso (≤-12%). Mide la habilidad técnica
-    de bajada y la resiliencia muscular frente a la carga excéntrica.</p>
-  <p class="formula">DMI = Σ(distancia en tramos ≤-12%) / Σ(tiempo del atleta en esos tramos)</p>
+  <details class="metric-accordion metric-dmi" id="dmi">
+    <summary>📉 DMI — Descent Mastery Index</summary>
+    <div class="metric-accordion-body">
+      <p>Speed (km/h) on strong-descent segments (slope ≤-12%). Measures technical downhill skill and muscular resilience against heavy eccentric loading.</p>
+      <p class="formula">DMI = Σ(distance on segments ≤-12%) / Σ(athlete time on those segments)</p>
+    </div>
+  </details>
 
-  <h2>🏆 ER — Endurance Rating</h2>
-  <p>Score de 0 a 100 que mide la degradación de ritmo entre la primera y la segunda mitad
-    de la carrera, medida en kilómetros de esfuerzo (distancia + desnivel/100) en vez de
-    kilómetros crudos.</p>
-  <p class="formula">ER = 100 − (decaimiento de ritmo % entre mitades)</p>
-
-  <h2>Flujo de datos</h2>
-  <p class="formula">Engine (Python) → JSON → Builder (Jinja2) → HTML estático → Cloudflare Pages</p>
+  <details class="metric-accordion metric-er" id="er">
+    <summary>🏆 ER — Endurance Rating</summary>
+    <div class="metric-accordion-body">
+      <p>A 0-100 score measuring pacing degradation between the first and second half of the race, measured in effort-kilometers (distance + elevation/100) instead of raw distance.</p>
+      <p class="formula">ER = 100 − (pacing decay % between halves)</p>
+    </div>
+  </details>
 </article>
+<script>
+  (function () {
+    var id = location.hash.slice(1);
+    if (!id) return;
+    var el = document.getElementById(id);
+    if (el && el.tagName === "DETAILS") {
+      el.open = true;
+      el.scrollIntoView({ block: "start" });
+    }
+  })();
+</script>
   </main>
 
   <footer class="site-footer">
     <p>&copy; 2026 Vertical Trail Labs — VPI · DMI · ER</p>
-    <p class="site-footer-sub">Motor de análisis de rendimiento en trail running.</p>
+    <p class="site-footer-sub">Trail running performance engine.</p>
   </footer>
 
   <script src="/assets/js/search.js" defer></script>
+  <script src="/assets/js/carousel.js" defer></script>
+  <script src="/assets/js/report-frame.js" defer></script>
 </body>
 </html>
