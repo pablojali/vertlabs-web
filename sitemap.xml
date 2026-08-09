@@ -288,4 +288,22 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/theo-soriano/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/theo-soriano/"/>
   </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/thomas-duvivier/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/thomas-duvivier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/thomas-duvivier/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/thomas-duvivier/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/thomas-duvivier/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/thomas-duvivier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/thomas-duvivier/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/thomas-duvivier/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/thomas-duvivier/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/thomas-duvivier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/thomas-duvivier/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/thomas-duvivier/"/>
+  </url>
 </urlset>
