@@ -31,6 +31,11 @@
   },
   {
     "type": "athlete",
+    "title": "Arthur VANSTEENKISTE",
+    "url": "/athletes/arthur-vansteenkiste/"
+  },
+  {
+    "type": "athlete",
     "title": "Bart PRZEDWOJEWSKI",
     "url": "/athletes/bart-przedwojewski/"
   },
@@ -46,8 +51,23 @@
   },
   {
     "type": "athlete",
+    "title": "Enrique GOMIS",
+    "url": "/athletes/enrique-gomis/"
+  },
+  {
+    "type": "athlete",
     "title": "Gautier BONNECARRERE",
     "url": "/athletes/gautier-bonnecarrere/"
+  },
+  {
+    "type": "athlete",
+    "title": "Jean-Marie DIVERREZ",
+    "url": "/athletes/jean-marie-diverrez/"
+  },
+  {
+    "type": "athlete",
+    "title": "Josu AZKUNE CORDON",
+    "url": "/athletes/josu-azkune-cordon/"
   },
   {
     "type": "athlete",
@@ -81,8 +101,18 @@
   },
   {
     "type": "athlete",
+    "title": "Maxime BISSON",
+    "url": "/athletes/maxime-bisson/"
+  },
+  {
+    "type": "athlete",
     "title": "Miao YAO",
     "url": "/athletes/miao-yao/"
+  },
+  {
+    "type": "athlete",
+    "title": "Pau RIUS",
+    "url": "/athletes/pau-rius/"
   },
   {
     "type": "athlete",
