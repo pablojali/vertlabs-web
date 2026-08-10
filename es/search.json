@@ -6,13 +6,18 @@
   },
   {
     "type": "race",
-    "title": "Val d'Aran by UTMB 2026",
+    "title": "Val d'Aran by UTMB - CDH 110k 2026",
     "url": "/es/races/val-d-aran-by-utmb-2026-110k/"
   },
   {
     "type": "race",
     "title": "Val d'Aran by UTMB 2026",
     "url": "/es/races/val-d-aran-by-utmb-2026-163k/"
+  },
+  {
+    "type": "athlete",
+    "title": "Abel CARRETERO",
+    "url": "/es/athletes/abel-carretero/"
   },
   {
     "type": "athlete",
@@ -23,6 +28,11 @@
     "type": "athlete",
     "title": "Anastasiia IANINA",
     "url": "/es/athletes/anastasiia-ianina/"
+  },
+  {
+    "type": "athlete",
+    "title": "Are FETVEIT",
+    "url": "/es/athletes/are-fetveit/"
   },
   {
     "type": "athlete",
@@ -41,8 +51,23 @@
   },
   {
     "type": "athlete",
+    "title": "Bastien ENJALBERT",
+    "url": "/es/athletes/bastien-enjalbert/"
+  },
+  {
+    "type": "athlete",
+    "title": "Benjamin TREMONT",
+    "url": "/es/athletes/benjamin-tremont/"
+  },
+  {
+    "type": "athlete",
     "title": "Carolina RIUS",
     "url": "/es/athletes/carolina-rius/"
+  },
+  {
+    "type": "athlete",
+    "title": "Daniel LUQUE GONZALEZ",
+    "url": "/es/athletes/daniel-luque-gonzalez/"
   },
   {
     "type": "athlete",
@@ -61,6 +86,11 @@
   },
   {
     "type": "athlete",
+    "title": "Igor GOIKOLEA LARRAURI",
+    "url": "/es/athletes/igor-goikolea-larrauri/"
+  },
+  {
+    "type": "athlete",
     "title": "Jean-Marie DIVERREZ",
     "url": "/es/athletes/jean-marie-diverrez/"
   },
@@ -68,6 +98,11 @@
     "type": "athlete",
     "title": "Josu AZKUNE CORDON",
     "url": "/es/athletes/josu-azkune-cordon/"
+  },
+  {
+    "type": "athlete",
+    "title": "Julen CALVO VIGARA",
+    "url": "/es/athletes/julen-calvo-vigara/"
   },
   {
     "type": "athlete",
@@ -101,6 +136,11 @@
   },
   {
     "type": "athlete",
+    "title": "Matis LERAY",
+    "url": "/es/athletes/matis-leray/"
+  },
+  {
+    "type": "athlete",
     "title": "Maxime BISSON",
     "url": "/es/athletes/maxime-bisson/"
   },
@@ -113,6 +153,11 @@
     "type": "athlete",
     "title": "Pau RIUS",
     "url": "/es/athletes/pau-rius/"
+  },
+  {
+    "type": "athlete",
+    "title": "Remy BRASSAC",
+    "url": "/es/athletes/remy-brassac/"
   },
   {
     "type": "athlete",
