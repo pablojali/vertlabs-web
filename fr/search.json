@@ -21,6 +21,11 @@
   },
   {
     "type": "athlete",
+    "title": "Anastasiia IANINA",
+    "url": "/fr/athletes/anastasiia-ianina/"
+  },
+  {
+    "type": "athlete",
     "title": "Aroa SIO",
     "url": "/fr/athletes/aroa-sio/"
   },
@@ -31,6 +36,11 @@
   },
   {
     "type": "athlete",
+    "title": "Carolina RIUS",
+    "url": "/fr/athletes/carolina-rius/"
+  },
+  {
+    "type": "athlete",
     "title": "Delbi VILLA GONGORA",
     "url": "/fr/athletes/delbi-villa-gongora/"
   },
@@ -38,6 +48,16 @@
     "type": "athlete",
     "title": "Gautier BONNECARRERE",
     "url": "/fr/athletes/gautier-bonnecarrere/"
+  },
+  {
+    "type": "athlete",
+    "title": "Junko KAGEYAMA",
+    "url": "/fr/athletes/junko-kageyama/"
+  },
+  {
+    "type": "athlete",
+    "title": "Kaori TAKEICHI",
+    "url": "/fr/athletes/kaori-takeichi/"
   },
   {
     "type": "athlete",
@@ -93,5 +113,10 @@
     "type": "athlete",
     "title": "Thomas DUVIVIER",
     "url": "/fr/athletes/thomas-duvivier/"
+  },
+  {
+    "type": "athlete",
+    "title": "Yukiko SAWADA",
+    "url": "/fr/athletes/yukiko-sawada/"
   }
 ]
