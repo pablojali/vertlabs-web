@@ -1,6 +1,11 @@
 [
   {
     "type": "race",
+    "title": "Lavaredo Ultra Trail by UTMB - 80k 2026",
+    "url": "/fr/races/lavaredo-ultra-trail-2026-80k/"
+  },
+  {
+    "type": "race",
     "title": "Val d'Aran by UTMB 2026",
     "url": "/fr/races/val-d-aran-by-utmb-2026-110k/"
   },
@@ -21,6 +26,11 @@
   },
   {
     "type": "athlete",
+    "title": "Bart PRZEDWOJEWSKI",
+    "url": "/fr/athletes/bart-przedwojewski/"
+  },
+  {
+    "type": "athlete",
     "title": "Delbi VILLA GONGORA",
     "url": "/fr/athletes/delbi-villa-gongora/"
   },
@@ -36,6 +46,11 @@
   },
   {
     "type": "athlete",
+    "title": "Marcin RZESZÓTKO",
+    "url": "/fr/athletes/marcin-rzeszotko/"
+  },
+  {
+    "type": "athlete",
     "title": "Mari Klakegg FENRE",
     "url": "/fr/athletes/mari-klakegg-fenre/"
   },
@@ -48,6 +63,11 @@
     "type": "athlete",
     "title": "Miao YAO",
     "url": "/fr/athletes/miao-yao/"
+  },
+  {
+    "type": "athlete",
+    "title": "Robin JUILLAGUET",
+    "url": "/fr/athletes/robin-juillaguet/"
   },
   {
     "type": "athlete",
