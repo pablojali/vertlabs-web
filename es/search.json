@@ -1,8 +1,8 @@
 [
   {
     "type": "race",
-    "title": "Lavaredo Ultra Trail by UTMB - 80k 2026",
-    "url": "/es/races/lavaredo-ultra-trail-2026-80k/"
+    "title": "Lavaredo Ultra Trail by UTMB 2026",
+    "url": "/es/races/lavaredo-ultra-trail-by-utmb-2026/"
   },
   {
     "type": "race",
@@ -176,6 +176,11 @@
   },
   {
     "type": "athlete",
+    "title": "Kellen BLUMBERG",
+    "url": "/es/athletes/kellen-blumberg/"
+  },
+  {
+    "type": "athlete",
     "title": "Kinga KWIATKOWSKA",
     "url": "/es/athletes/kinga-kwiatkowska/"
   },
@@ -273,6 +278,11 @@
     "type": "athlete",
     "title": "Santos Gabriel RUEDA",
     "url": "/es/athletes/santos-gabriel-rueda/"
+  },
+  {
+    "type": "athlete",
+    "title": "Stefan UNGERICHT",
+    "url": "/es/athletes/stefan-ungericht/"
   },
   {
     "type": "athlete",
