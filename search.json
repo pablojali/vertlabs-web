@@ -6,6 +6,11 @@
   },
   {
     "type": "race",
+    "title": "Lavaredo Ultra Trail by UTMB 2026",
+    "url": "/races/lavaredo-ultra-trail-by-utmb-2026/"
+  },
+  {
+    "type": "race",
     "title": "Val d'Aran by UTMB - CDH 110k 2026",
     "url": "/races/val-d-aran-by-utmb-2026-110k/"
   },
@@ -21,6 +26,11 @@
   },
   {
     "type": "athlete",
+    "title": "Agathe BES",
+    "url": "/athletes/agathe-bes/"
+  },
+  {
+    "type": "athlete",
     "title": "Ainara ARKARAZO LEGARRETA",
     "url": "/athletes/ainara-arkarazo-legarreta/"
   },
@@ -33,6 +43,11 @@
     "type": "athlete",
     "title": "Anastasiia IANINA",
     "url": "/athletes/anastasiia-ianina/"
+  },
+  {
+    "type": "athlete",
+    "title": "Arden YOUNG",
+    "url": "/athletes/arden-young/"
   },
   {
     "type": "athlete",
@@ -66,6 +81,11 @@
   },
   {
     "type": "athlete",
+    "title": "Bogdan IBANESCU",
+    "url": "/athletes/bogdan-ibanescu/"
+  },
+  {
+    "type": "athlete",
     "title": "Camille LESCUYER",
     "url": "/athletes/camille-lescuyer/"
   },
@@ -91,6 +111,11 @@
   },
   {
     "type": "athlete",
+    "title": "Elísa KRISTINSDÓTTIR",
+    "url": "/athletes/elisa-kristinsdottir/"
+  },
+  {
+    "type": "athlete",
     "title": "Enrique GOMIS",
     "url": "/athletes/enrique-gomis/"
   },
@@ -103,6 +128,16 @@
     "type": "athlete",
     "title": "Gautier BONNECARRERE",
     "url": "/athletes/gautier-bonnecarrere/"
+  },
+  {
+    "type": "athlete",
+    "title": "Genis PORQUERAS",
+    "url": "/athletes/genis-porqueras/"
+  },
+  {
+    "type": "athlete",
+    "title": "Giulia MARCHESONI",
+    "url": "/athletes/giulia-marchesoni/"
   },
   {
     "type": "athlete",
@@ -146,6 +181,21 @@
   },
   {
     "type": "athlete",
+    "title": "Kinga KWIATKOWSKA",
+    "url": "/athletes/kinga-kwiatkowska/"
+  },
+  {
+    "type": "athlete",
+    "title": "Lasse FINSTAD",
+    "url": "/athletes/lasse-finstad/"
+  },
+  {
+    "type": "athlete",
+    "title": "Magdalena KRASZPULSKA",
+    "url": "/athletes/magdalena-kraszpulska/"
+  },
+  {
+    "type": "athlete",
     "title": "Marcin RZESZÓTKO",
     "url": "/athletes/marcin-rzeszotko/"
   },
@@ -153,6 +203,11 @@
     "type": "athlete",
     "title": "Mari Klakegg FENRE",
     "url": "/athletes/mari-klakegg-fenre/"
+  },
+  {
+    "type": "athlete",
+    "title": "Marie GONCALVES",
+    "url": "/athletes/marie-goncalves/"
   },
   {
     "type": "athlete",
@@ -181,8 +236,23 @@
   },
   {
     "type": "athlete",
+    "title": "Moreno SALA",
+    "url": "/athletes/moreno-sala/"
+  },
+  {
+    "type": "athlete",
+    "title": "Nicol GUIDOLIN",
+    "url": "/athletes/nicol-guidolin/"
+  },
+  {
+    "type": "athlete",
     "title": "Pau RIUS",
     "url": "/athletes/pau-rius/"
+  },
+  {
+    "type": "athlete",
+    "title": "Pierre-Adrien HIVERT",
+    "url": "/athletes/pierre-adrien-hivert/"
   },
   {
     "type": "athlete",
@@ -216,6 +286,11 @@
   },
   {
     "type": "athlete",
+    "title": "Sylvie GEISSLER",
+    "url": "/athletes/sylvie-geissler/"
+  },
+  {
+    "type": "athlete",
     "title": "Théo SORIANO",
     "url": "/athletes/theo-soriano/"
   },
@@ -223,6 +298,11 @@
     "type": "athlete",
     "title": "Thomas DUVIVIER",
     "url": "/athletes/thomas-duvivier/"
+  },
+  {
+    "type": "athlete",
+    "title": "Viva DE MOUSTIER",
+    "url": "/athletes/viva-de-moustier/"
   },
   {
     "type": "athlete",
