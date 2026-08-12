@@ -1,6 +1,11 @@
 [
   {
     "type": "race",
+    "title": "Lavaredo Ultra Trail by UTMB - 120k 2026",
+    "url": "/fr/races/lavaredo-ultra-trail-120k/"
+  },
+  {
+    "type": "race",
     "title": "Lavaredo Ultra Trail by UTMB 2026",
     "url": "/fr/races/lavaredo-ultra-trail-by-utmb-2026/"
   },
@@ -38,6 +43,26 @@
     "type": "athlete",
     "title": "Anastasiia IANINA",
     "url": "/fr/athletes/anastasiia-ianina/"
+  },
+  {
+    "type": "athlete",
+    "title": "Andrea ZANCONATO",
+    "url": "/fr/athletes/andrea-zanconato/"
+  },
+  {
+    "type": "athlete",
+    "title": "Andreas REITERER",
+    "url": "/fr/athletes/andreas-reiterer/"
+  },
+  {
+    "type": "athlete",
+    "title": "Andreas RIEDER",
+    "url": "/fr/athletes/andreas-rieder/"
+  },
+  {
+    "type": "athlete",
+    "title": "Anna LOUDEN",
+    "url": "/fr/athletes/anna-louden/"
   },
   {
     "type": "athlete",
@@ -96,6 +121,16 @@
   },
   {
     "type": "athlete",
+    "title": "Clément MUGNIER",
+    "url": "/fr/athletes/clement-mugnier/"
+  },
+  {
+    "type": "athlete",
+    "title": "Cristina FILIPPINI",
+    "url": "/fr/athletes/cristina-filippini/"
+  },
+  {
+    "type": "athlete",
     "title": "Daniel LUQUE GONZALEZ",
     "url": "/fr/athletes/daniel-luque-gonzalez/"
   },
@@ -111,6 +146,11 @@
   },
   {
     "type": "athlete",
+    "title": "Emma STUART",
+    "url": "/fr/athletes/emma-stuart/"
+  },
+  {
+    "type": "athlete",
     "title": "Enrique GOMIS",
     "url": "/fr/athletes/enrique-gomis/"
   },
@@ -118,6 +158,21 @@
     "type": "athlete",
     "title": "Erola TORTADÈS VERDAGUER",
     "url": "/fr/athletes/erola-tortades-verdaguer/"
+  },
+  {
+    "type": "athlete",
+    "title": "Eszter CSILLAG",
+    "url": "/fr/athletes/eszter-csillag/"
+  },
+  {
+    "type": "athlete",
+    "title": "Ethan PETERS",
+    "url": "/fr/athletes/ethan-peters/"
+  },
+  {
+    "type": "athlete",
+    "title": "Fabien FEUTRIER",
+    "url": "/fr/athletes/fabien-feutrier/"
   },
   {
     "type": "athlete",
@@ -133,6 +188,11 @@
     "type": "athlete",
     "title": "Giulia MARCHESONI",
     "url": "/fr/athletes/giulia-marchesoni/"
+  },
+  {
+    "type": "athlete",
+    "title": "Hannes NAMBERGER",
+    "url": "/fr/athletes/hannes-namberger/"
   },
   {
     "type": "athlete",
@@ -191,8 +251,23 @@
   },
   {
     "type": "athlete",
+    "title": "Leo ROGAUME",
+    "url": "/fr/athletes/leo-rogaume/"
+  },
+  {
+    "type": "athlete",
+    "title": "Lucy BARTHOLOMEW",
+    "url": "/fr/athletes/lucy-bartholomew/"
+  },
+  {
+    "type": "athlete",
     "title": "Magdalena KRASZPULSKA",
     "url": "/fr/athletes/magdalena-kraszpulska/"
+  },
+  {
+    "type": "athlete",
+    "title": "Manon GRAS",
+    "url": "/fr/athletes/manon-gras/"
   },
   {
     "type": "athlete",
@@ -251,6 +326,11 @@
   },
   {
     "type": "athlete",
+    "title": "Peter FRAŇO",
+    "url": "/fr/athletes/peter-frano/"
+  },
+  {
+    "type": "athlete",
     "title": "Pierre-Adrien HIVERT",
     "url": "/fr/athletes/pierre-adrien-hivert/"
   },
@@ -281,6 +361,11 @@
   },
   {
     "type": "athlete",
+    "title": "Sarah NAPIWOTZKI",
+    "url": "/fr/athletes/sarah-napiwotzki/"
+  },
+  {
+    "type": "athlete",
     "title": "Stefan UNGERICHT",
     "url": "/fr/athletes/stefan-ungericht/"
   },
@@ -288,6 +373,16 @@
     "type": "athlete",
     "title": "Stephanie HOWE",
     "url": "/fr/athletes/stephanie-howe/"
+  },
+  {
+    "type": "athlete",
+    "title": "Sunmaya BUDHA",
+    "url": "/fr/athletes/sunmaya-budha/"
+  },
+  {
+    "type": "athlete",
+    "title": "Susanne ZAHLAUER",
+    "url": "/fr/athletes/susanne-zahlauer/"
   },
   {
     "type": "athlete",
@@ -303,6 +398,16 @@
     "type": "athlete",
     "title": "Thomas DUVIVIER",
     "url": "/fr/athletes/thomas-duvivier/"
+  },
+  {
+    "type": "athlete",
+    "title": "Tobias GEISER",
+    "url": "/fr/athletes/tobias-geiser/"
+  },
+  {
+    "type": "athlete",
+    "title": "Vaida NAKROSIUTE",
+    "url": "/fr/athletes/vaida-nakrosiute/"
   },
   {
     "type": "athlete",
