@@ -65,7 +65,12 @@
   <p class="hero-sub about-emphasis">Nuestra metodología propia va más allá de los tiempos finales para medir el rendimiento en el contexto del terreno mismo.</p>
 
   <details class="metric-accordion metric-vpi" id="vpi" open>
-    <summary>🧗 VPI — Vertical Power Index</summary>
+    <summary>
+      🧗 VPI — Vertical Power Index
+      <button type="button" class="video-trigger" data-video-src="/assets/video/vpi-explainer.mp4" aria-label="Ver: cómo funciona el VPI">
+        <svg viewBox="0 0 24 24" width="11" height="11" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+      </button>
+    </summary>
     <div class="metric-accordion-body">
       <p>Metros de desnivel positivo por hora, medidos únicamente en los tramos de fuerte pendiente (≥12%). Mide la eficiencia y potencia específica en subida severa.</p>
       <p class="formula">VPI = Σ(desnivel+ en tramos ≥12%) / Σ(tiempo del atleta en esos tramos)</p>
@@ -106,8 +111,17 @@
     <p class="site-footer-sub">Motor de análisis de rendimiento en trail running.</p>
   </footer>
 
+  <div id="video-modal" class="video-modal" hidden>
+    <div class="video-modal-backdrop" data-video-close></div>
+    <div class="video-modal-panel">
+      <button type="button" class="video-modal-close" data-video-close aria-label="Cerrar video">×</button>
+      <video id="video-modal-player" controls playsinline></video>
+    </div>
+  </div>
+
   <script src="/assets/js/search.js" defer></script>
   <script src="/assets/js/carousel.js" defer></script>
   <script src="/assets/js/report-frame.js" defer></script>
+  <script src="/assets/js/video-modal.js" defer></script>
 </body>
 </html>
