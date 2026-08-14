@@ -11,6 +11,11 @@
   },
   {
     "type": "race",
+    "title": "Monterosa Walserwaeg  - 120k 2026",
+    "url": "/fr/races/monterosa-walserwaeg-120k/"
+  },
+  {
+    "type": "race",
     "title": "Val d'Aran by UTMB 2026",
     "url": "/fr/races/val-d-aran-by-utmb-2026-110k/"
   },
@@ -86,6 +91,11 @@
   },
   {
     "type": "athlete",
+    "title": "Baptiste HAGNERE",
+    "url": "/fr/athletes/baptiste-hagnere/"
+  },
+  {
+    "type": "athlete",
     "title": "Bart PRZEDWOJEWSKI",
     "url": "/fr/athletes/bart-przedwojewski/"
   },
@@ -123,6 +133,11 @@
     "type": "athlete",
     "title": "Clément MUGNIER",
     "url": "/fr/athletes/clement-mugnier/"
+  },
+  {
+    "type": "athlete",
+    "title": "Corentin BUI",
+    "url": "/fr/athletes/corentin-bui/"
   },
   {
     "type": "athlete",
@@ -176,6 +191,11 @@
   },
   {
     "type": "athlete",
+    "title": "Florian DESCAMPS",
+    "url": "/fr/athletes/florian-descamps/"
+  },
+  {
+    "type": "athlete",
     "title": "Gautier BONNECARRERE",
     "url": "/fr/athletes/gautier-bonnecarrere/"
   },
@@ -208,6 +228,11 @@
     "type": "athlete",
     "title": "Jean-Marie DIVERREZ",
     "url": "/fr/athletes/jean-marie-diverrez/"
+  },
+  {
+    "type": "athlete",
+    "title": "Jérôme VANDERSCHAEGHE",
+    "url": "/fr/athletes/jerome-vanderschaeghe/"
   },
   {
     "type": "athlete",
@@ -261,6 +286,11 @@
   },
   {
     "type": "athlete",
+    "title": "Mael SAMZUN",
+    "url": "/fr/athletes/mael-samzun/"
+  },
+  {
+    "type": "athlete",
     "title": "Magdalena KRASZPULSKA",
     "url": "/fr/athletes/magdalena-kraszpulska/"
   },
@@ -273,6 +303,11 @@
     "type": "athlete",
     "title": "Marcin RZESZÓTKO",
     "url": "/fr/athletes/marcin-rzeszotko/"
+  },
+  {
+    "type": "athlete",
+    "title": "Marco NUTI",
+    "url": "/fr/athletes/marco-nuti/"
   },
   {
     "type": "athlete",
@@ -293,6 +328,16 @@
     "type": "athlete",
     "title": "Matis LERAY",
     "url": "/fr/athletes/matis-leray/"
+  },
+  {
+    "type": "athlete",
+    "title": "Matt PALILLA",
+    "url": "/fr/athletes/matt-palilla/"
+  },
+  {
+    "type": "athlete",
+    "title": "Matthis GRANET",
+    "url": "/fr/athletes/matthis-granet/"
   },
   {
     "type": "athlete",
@@ -366,6 +411,11 @@
   },
   {
     "type": "athlete",
+    "title": "Simone CORSINI",
+    "url": "/fr/athletes/simone-corsini/"
+  },
+  {
+    "type": "athlete",
     "title": "Stefan UNGERICHT",
     "url": "/fr/athletes/stefan-ungericht/"
   },
@@ -408,6 +458,11 @@
     "type": "athlete",
     "title": "Vaida NAKROSIUTE",
     "url": "/fr/athletes/vaida-nakrosiute/"
+  },
+  {
+    "type": "athlete",
+    "title": "Virgile VANDEWALLE",
+    "url": "/fr/athletes/virgile-vandewalle/"
   },
   {
     "type": "athlete",
