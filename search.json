@@ -1,6 +1,11 @@
 [
   {
     "type": "race",
+    "title": "Eiger Ultra Trail 2026",
+    "url": "/races/eiger-ultra-trail-2026/"
+  },
+  {
+    "type": "race",
     "title": "Lavaredo Ultra Trail by UTMB - 120k 2026",
     "url": "/races/lavaredo-ultra-trail-120k/"
   },
@@ -71,6 +76,11 @@
   },
   {
     "type": "athlete",
+    "title": "Antoine OLIVIER",
+    "url": "/athletes/antoine-olivier/"
+  },
+  {
+    "type": "athlete",
     "title": "Arden YOUNG",
     "url": "/athletes/arden-young/"
   },
@@ -78,6 +88,11 @@
     "type": "athlete",
     "title": "Are FETVEIT",
     "url": "/athletes/are-fetveit/"
+  },
+  {
+    "type": "athlete",
+    "title": "Arne DETAVERNIER",
+    "url": "/athletes/arne-detavernier/"
   },
   {
     "type": "athlete",
@@ -103,6 +118,11 @@
     "type": "athlete",
     "title": "Bastien ENJALBERT",
     "url": "/athletes/bastien-enjalbert/"
+  },
+  {
+    "type": "athlete",
+    "title": "Benjamin ATTIA",
+    "url": "/athletes/benjamin-attia/"
   },
   {
     "type": "athlete",
@@ -221,6 +241,11 @@
   },
   {
     "type": "athlete",
+    "title": "Grzegorz BIENIEK",
+    "url": "/athletes/grzegorz-bieniek/"
+  },
+  {
+    "type": "athlete",
     "title": "Hannes NAMBERGER",
     "url": "/athletes/hannes-namberger/"
   },
@@ -301,6 +326,11 @@
   },
   {
     "type": "athlete",
+    "title": "Leon KRIESMAIR",
+    "url": "/athletes/leon-kriesmair/"
+  },
+  {
+    "type": "athlete",
     "title": "Lisa BORZANI",
     "url": "/athletes/lisa-borzani/"
   },
@@ -323,6 +353,11 @@
     "type": "athlete",
     "title": "Manon GRAS",
     "url": "/athletes/manon-gras/"
+  },
+  {
+    "type": "athlete",
+    "title": "Manuel HARTWEG",
+    "url": "/athletes/manuel-hartweg/"
   },
   {
     "type": "athlete",
@@ -386,6 +421,11 @@
   },
   {
     "type": "athlete",
+    "title": "Maxime PELLOUCHOUD",
+    "url": "/athletes/maxime-pellouchoud/"
+  },
+  {
+    "type": "athlete",
     "title": "Melissa PAGANELLI",
     "url": "/athletes/melissa-paganelli/"
   },
@@ -408,6 +448,11 @@
     "type": "athlete",
     "title": "Nicol GUIDOLIN",
     "url": "/athletes/nicol-guidolin/"
+  },
+  {
+    "type": "athlete",
+    "title": "Olivier UNTERNAEHRER",
+    "url": "/athletes/olivier-unternaehrer/"
   },
   {
     "type": "athlete",
@@ -476,6 +521,11 @@
   },
   {
     "type": "athlete",
+    "title": "Stian DAHL SOMMERSETH",
+    "url": "/athletes/stian-dahl-sommerseth/"
+  },
+  {
+    "type": "athlete",
     "title": "Sunmaya BUDHA",
     "url": "/athletes/sunmaya-budha/"
   },
@@ -503,6 +553,11 @@
     "type": "athlete",
     "title": "Tobias GEISER",
     "url": "/athletes/tobias-geiser/"
+  },
+  {
+    "type": "athlete",
+    "title": "Tobias PFORTMUELLER",
+    "url": "/athletes/tobias-pfortmueller/"
   },
   {
     "type": "athlete",
