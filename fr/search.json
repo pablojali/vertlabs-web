@@ -21,6 +21,11 @@
   },
   {
     "type": "race",
+    "title": "UTMB - Mont Blanc 2025",
+    "url": "/fr/races/utmb-mont-blanc-2025/"
+  },
+  {
+    "type": "race",
     "title": "Val d'Aran by UTMB 2026",
     "url": "/fr/races/val-d-aran-by-utmb-2026-110k/"
   },
@@ -86,6 +91,11 @@
   },
   {
     "type": "athlete",
+    "title": "Antoine LAMBOY-MARTIN",
+    "url": "/fr/athletes/antoine-lamboy-martin/"
+  },
+  {
+    "type": "athlete",
     "title": "Antoine OLIVIER",
     "url": "/fr/athletes/antoine-olivier/"
   },
@@ -116,6 +126,16 @@
   },
   {
     "type": "athlete",
+    "title": "Aurelien DUNAND PALLAZ",
+    "url": "/fr/athletes/aurelien-dunand-pallaz/"
+  },
+  {
+    "type": "athlete",
+    "title": "Baptiste COATANTIEC",
+    "url": "/fr/athletes/baptiste-coatantiec/"
+  },
+  {
+    "type": "athlete",
     "title": "Baptiste HAGNERE",
     "url": "/fr/athletes/baptiste-hagnere/"
   },
@@ -128,6 +148,11 @@
     "type": "athlete",
     "title": "Bastien ENJALBERT",
     "url": "/fr/athletes/bastien-enjalbert/"
+  },
+  {
+    "type": "athlete",
+    "title": "Ben DHIMAN",
+    "url": "/fr/athletes/ben-dhiman/"
   },
   {
     "type": "athlete",
@@ -151,6 +176,11 @@
   },
   {
     "type": "athlete",
+    "title": "Canyon WOODWARD",
+    "url": "/fr/athletes/canyon-woodward/"
+  },
+  {
+    "type": "athlete",
     "title": "Carolina RIUS",
     "url": "/fr/athletes/carolina-rius/"
   },
@@ -168,6 +198,11 @@
     "type": "athlete",
     "title": "Clément MUGNIER",
     "url": "/fr/athletes/clement-mugnier/"
+  },
+  {
+    "type": "athlete",
+    "title": "Cody LIND",
+    "url": "/fr/athletes/cody-lind/"
   },
   {
     "type": "athlete",
@@ -271,6 +306,11 @@
   },
   {
     "type": "athlete",
+    "title": "Guillaume DENEFFE",
+    "url": "/fr/athletes/guillaume-deneffe/"
+  },
+  {
+    "type": "athlete",
     "title": "Hannes NAMBERGER",
     "url": "/fr/athletes/hannes-namberger/"
   },
@@ -301,6 +341,26 @@
   },
   {
     "type": "athlete",
+    "title": "Ji DUO",
+    "url": "/fr/athletes/ji-duo/"
+  },
+  {
+    "type": "athlete",
+    "title": "Jiaju ZHAO",
+    "url": "/fr/athletes/jiaju-zhao/"
+  },
+  {
+    "type": "athlete",
+    "title": "Jiasheng SHEN",
+    "url": "/fr/athletes/jiasheng-shen/"
+  },
+  {
+    "type": "athlete",
+    "title": "Josh WADE",
+    "url": "/fr/athletes/josh-wade/"
+  },
+  {
+    "type": "athlete",
     "title": "Josu AZKUNE CORDON",
     "url": "/fr/athletes/josu-azkune-cordon/"
   },
@@ -318,6 +378,11 @@
     "type": "athlete",
     "title": "Junko KAGEYAMA",
     "url": "/fr/athletes/junko-kageyama/"
+  },
+  {
+    "type": "athlete",
+    "title": "Kamil LEŚNIAK",
+    "url": "/fr/athletes/kamil-lesniak/"
   },
   {
     "type": "athlete",
@@ -368,6 +433,11 @@
     "type": "athlete",
     "title": "Lucy BARTHOLOMEW",
     "url": "/fr/athletes/lucy-bartholomew/"
+  },
+  {
+    "type": "athlete",
+    "title": "Ludovic POMMERET",
+    "url": "/fr/athletes/ludovic-pommeret/"
   },
   {
     "type": "athlete",
@@ -481,6 +551,11 @@
   },
   {
     "type": "athlete",
+    "title": "Nicolas GOURDON",
+    "url": "/fr/athletes/nicolas-gourdon/"
+  },
+  {
+    "type": "athlete",
     "title": "Olivier UNTERNAEHRER",
     "url": "/fr/athletes/olivier-unternaehrer/"
   },
@@ -508,6 +583,11 @@
     "type": "athlete",
     "title": "Robin JUILLAGUET",
     "url": "/fr/athletes/robin-juillaguet/"
+  },
+  {
+    "type": "athlete",
+    "title": "Rod FARVARD",
+    "url": "/fr/athletes/rod-farvard/"
   },
   {
     "type": "athlete",
@@ -596,6 +676,11 @@
   },
   {
     "type": "athlete",
+    "title": "Thibaut GARRIVIER",
+    "url": "/fr/athletes/thibaut-garrivier/"
+  },
+  {
+    "type": "athlete",
     "title": "Thomas DUVIVIER",
     "url": "/fr/athletes/thomas-duvivier/"
   },
@@ -611,6 +696,11 @@
   },
   {
     "type": "athlete",
+    "title": "Tom EVANS",
+    "url": "/fr/athletes/tom-evans/"
+  },
+  {
+    "type": "athlete",
     "title": "Vaida NAKROSIUTE",
     "url": "/fr/athletes/vaida-nakrosiute/"
   },
@@ -623,6 +713,16 @@
     "type": "athlete",
     "title": "Viva DE MOUSTIER",
     "url": "/fr/athletes/viva-de-moustier/"
+  },
+  {
+    "type": "athlete",
+    "title": "William ENGLUND",
+    "url": "/fr/athletes/william-englund/"
+  },
+  {
+    "type": "athlete",
+    "title": "Yannick NOËL",
+    "url": "/fr/athletes/yannick-noel/"
   },
   {
     "type": "athlete",
