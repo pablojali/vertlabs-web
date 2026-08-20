@@ -15,11 +15,11 @@
   <meta property="og:description" content="Salomé GRIHON — VPI, DMI, ER.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://vertlabs.run/es/athletes/salome-grihon/">
-  <meta property="og:image" content="https://vertlabs.run/media/athletes/salome-grihon/images/portrait.jpg">
+  <meta property="og:image" content="https://vertlabs.run/media/athletes/salome-grihon/images/portrait.png">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Salomé GRIHON — Vertical Trail Labs">
   <meta name="twitter:description" content="Salomé GRIHON — VPI, DMI, ER.">
-  <meta name="twitter:image" content="https://vertlabs.run/media/athletes/salome-grihon/images/portrait.jpg">
+  <meta name="twitter:image" content="https://vertlabs.run/media/athletes/salome-grihon/images/portrait.png">
 
   <link rel="icon" href="/assets/img/favicon.png" type="image/png">
   <link rel="stylesheet" href="/assets/css/style.css">
@@ -35,8 +35,18 @@
         </span>
       </a>
 
-      <div class="lang-switcher" aria-label="Language">
-        <a href="/athletes/salome-grihon/" class="">EN</a><span class="lang-sep">·</span>        <a href="/es/athletes/salome-grihon/" class="active">ES</a><span class="lang-sep">·</span>        <a href="/fr/athletes/salome-grihon/" class="">FR</a>      </div>
+      <div class="header-top-right">
+        <div class="lang-switcher" aria-label="Language">
+          <a href="/athletes/salome-grihon/" class="">EN</a><span class="lang-sep">·</span>          <a href="/es/athletes/salome-grihon/" class="active">ES</a><span class="lang-sep">·</span>          <a href="/fr/athletes/salome-grihon/" class="">FR</a>        </div>
+        <div class="social-links" aria-label="Social media">
+          <a href="https://www.instagram.com/vertlabs.run" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r="1"/></svg>
+          </a>
+          <a href="https://www.facebook.com/share/1HW26QLoZY/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M14 9h3V5h-3c-2.2 0-4 1.8-4 4v2H7v4h3v7h4v-7h3l1-4h-4V9c0-.6.4-1 1-1z"/></svg>
+          </a>
+        </div>
+      </div>
     </div>
 
     <nav class="main-nav" aria-label="Main">
@@ -52,7 +62,7 @@
   <p class="breadcrumb"><a href="/es/athletes/">Atletas</a> / Salomé GRIHON</p>
 
   <div class="athlete-header">
-    <img src="/media/athletes/salome-grihon/images/portrait.jpg" alt="Salomé GRIHON" class="athlete-portrait" loading="lazy">
+    <img src="/media/athletes/salome-grihon/images/portrait.png" alt="Salomé GRIHON" class="athlete-portrait" loading="lazy">
     <div>
       <h1>Salomé GRIHON</h1>
     </div>
@@ -76,6 +86,7 @@
           <th>Año</th>
           <th>Distancia</th>
           <th>Pos</th>
+          <th>Pos. Categoría</th>
           <th>Tiempo</th>
           <th class="metric-vpi">VPI</th>
           <th class="metric-dmi">DMI</th>
@@ -84,10 +95,11 @@
       </thead>
       <tbody>
         <tr>
-          <td><a href="/es/races/val-d-aran-by-utmb-2026/">Val d&#39;Aran by UTMB</a></td>
+          <td><a href="/es/athletes/salome-grihon/val-d-aran-by-utmb-2026-163k/">Val d&#39;Aran by UTMB</a></td>
           <td>2026</td>
           <td>160.1 km</td>
           <td>39</td>
+          <td>—</td>
           <td>30:15:49</td>
           <td class="metric-vpi">704.2</td>
           <td class="metric-dmi">7.81</td>
@@ -104,8 +116,17 @@
     <p class="site-footer-sub">Motor de análisis de rendimiento en trail running.</p>
   </footer>
 
+  <div id="video-modal" class="video-modal" hidden>
+    <div class="video-modal-backdrop" data-video-close></div>
+    <div class="video-modal-panel">
+      <button type="button" class="video-modal-close" data-video-close aria-label="Cerrar video">×</button>
+      <video id="video-modal-player" controls playsinline></video>
+    </div>
+  </div>
+
   <script src="/assets/js/search.js" defer></script>
   <script src="/assets/js/carousel.js" defer></script>
   <script src="/assets/js/report-frame.js" defer></script>
+  <script src="/assets/js/video-modal.js" defer></script>
 </body>
 </html>

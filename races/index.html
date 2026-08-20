@@ -35,8 +35,18 @@
         </span>
       </a>
 
-      <div class="lang-switcher" aria-label="Language">
-        <a href="/races/" class="active">EN</a><span class="lang-sep">·</span>        <a href="/es/races/" class="">ES</a><span class="lang-sep">·</span>        <a href="/fr/races/" class="">FR</a>      </div>
+      <div class="header-top-right">
+        <div class="lang-switcher" aria-label="Language">
+          <a href="/races/" class="active">EN</a><span class="lang-sep">·</span>          <a href="/es/races/" class="">ES</a><span class="lang-sep">·</span>          <a href="/fr/races/" class="">FR</a>        </div>
+        <div class="social-links" aria-label="Social media">
+          <a href="https://www.instagram.com/vertlabs.run" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r="1"/></svg>
+          </a>
+          <a href="https://www.facebook.com/share/1HW26QLoZY/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M14 9h3V5h-3c-2.2 0-4 1.8-4 4v2H7v4h3v7h4v-7h3l1-4h-4V9c0-.6.4-1 1-1z"/></svg>
+          </a>
+        </div>
+      </div>
     </div>
 
     <nav class="main-nav" aria-label="Main">
@@ -50,17 +60,47 @@
   <main>
 <section class="homepage-section">
   <h1>Races</h1>
-  <ul class="race-grid">
-    <li class="race-card">
-      <a href="/races/val-d-aran-by-utmb-2026-110k/">
-<img src="/media/races/val-d-aran-by-utmb-2026-110k/images/hero.jpg" alt="" loading="lazy">        <span class="race-card-name">Val d&#39;Aran by UTMB</span>
-        <span class="race-card-meta">2026 · 108.8 km</span>
+  <ul class="event-grid">
+    <li class="event-card">
+      <a href="/races/eiger-ultra-trail-2026/">
+<img src="/media/races/eiger-ultra-trail-2026/images/icon.png" alt="" loading="lazy">        <span class="event-card-name">Eiger Ultra Trail</span>
+        <span class="event-card-meta">2026</span>
       </a>
     </li>
-    <li class="race-card">
+    <li class="event-card">
+      <a href="/races/monterosa-walserwaeg-120k-2026/">
+<img src="/media/races/monterosa-walserwaeg-120k-2026/images/icon.jpg" alt="" loading="lazy">        <span class="event-card-name">Monterosa Walserwaeg  - 120k</span>
+        <span class="event-card-meta">2026 · Gressoney Saint Jean</span>
+      </a>
+    </li>
+    <li class="event-card">
       <a href="/races/val-d-aran-by-utmb-2026/">
-<img src="/media/races/val-d-aran-by-utmb-2026/images/hero.jpg" alt="" loading="lazy">        <span class="race-card-name">Val d&#39;Aran by UTMB</span>
-        <span class="race-card-meta">2026 · 160.1 km</span>
+<img src="/media/races/val-d-aran-by-utmb-2026/images/icon.png" alt="" loading="lazy">        <span class="event-card-name">Val d&#39;Aran by UTMB</span>
+        <span class="event-card-meta">2026 · Vielha</span>
+      </a>
+    </li>
+    <li class="event-card">
+      <a href="/races/marathon-du-mont-blanc-2026/">
+<img src="/media/races/marathon-du-mont-blanc-2026/images/icon.png" alt="" loading="lazy">        <span class="event-card-name">Marathon du Mont Blanc</span>
+        <span class="event-card-meta">2026 · Chamonix</span>
+      </a>
+    </li>
+    <li class="event-card">
+      <a href="/races/lavaredo-ultra-trail-by-utmb-2026/">
+<img src="/media/races/lavaredo-ultra-trail-by-utmb-2026/images/icon.png" alt="" loading="lazy">        <span class="event-card-name">Lavaredo Ultra Trail by UTMB</span>
+        <span class="event-card-meta">2026 · Dolomites</span>
+      </a>
+    </li>
+    <li class="event-card">
+      <a href="/races/trail-du-saint-jacques-by-utmb-2026/">
+<img src="/media/races/trail-du-saint-jacques-by-utmb-2026/images/icon.png" alt="" loading="lazy">        <span class="event-card-name">Trail du Saint Jacques by UTMB</span>
+        <span class="event-card-meta">2026 · Le Puy en Velay</span>
+      </a>
+    </li>
+    <li class="event-card">
+      <a href="/races/utmb-mont-blanc-2025/">
+<img src="/media/races/utmb-mont-blanc-2025/images/icon.jpg" alt="" loading="lazy">        <span class="event-card-name">UTMB - Mont Blanc</span>
+        <span class="event-card-meta">2025 · Chamonix</span>
       </a>
     </li>
   </ul>
@@ -72,8 +112,17 @@
     <p class="site-footer-sub">Trail running performance engine.</p>
   </footer>
 
+  <div id="video-modal" class="video-modal" hidden>
+    <div class="video-modal-backdrop" data-video-close></div>
+    <div class="video-modal-panel">
+      <button type="button" class="video-modal-close" data-video-close aria-label="Close video">×</button>
+      <video id="video-modal-player" controls playsinline></video>
+    </div>
+  </div>
+
   <script src="/assets/js/search.js" defer></script>
   <script src="/assets/js/carousel.js" defer></script>
   <script src="/assets/js/report-frame.js" defer></script>
+  <script src="/assets/js/video-modal.js" defer></script>
 </body>
 </html>

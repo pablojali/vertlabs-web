@@ -98,6 +98,13 @@ a:hover { text-decoration: underline; }
 }
 .main-nav a:hover { color: var(--color-cyan); border-color: var(--color-cyan); }
 
+.header-top-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.5rem;
+}
+
 .lang-switcher {
   display: flex;
   align-items: center;
@@ -108,6 +115,10 @@ a:hover { text-decoration: underline; }
 .lang-switcher a { color: var(--color-muted); text-decoration: none; font-weight: 600; }
 .lang-switcher a.active { color: var(--color-green); }
 .lang-switcher a:hover { color: var(--color-cyan); }
+
+.social-links { display: flex; align-items: center; gap: 0.65rem; }
+.social-links a { color: var(--color-muted); display: flex; transition: color 0.15s ease; }
+.social-links a:hover { color: var(--color-cyan); }
 .lang-sep { color: var(--color-border); }
 
 /* --- Layout --- */
@@ -161,6 +172,10 @@ main { max-width: 1176px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
   border-radius: 10px;
   background: var(--color-bg-raised);
 }
+a.stat-box { text-decoration: none; color: var(--color-text); transition: border-color 0.15s ease; }
+a.stat-box:hover { border-color: var(--color-muted); text-decoration: none; }
+a.stat-box.stat-box-cyan:hover { border-color: var(--color-cyan); }
+a.stat-box.stat-box-orange:hover { border-color: var(--color-orange); }
 .stat-box .stat-hex { color: var(--color-muted); margin-bottom: 0.5rem; }
 .stat-box-cyan .stat-hex { color: var(--color-cyan); }
 .stat-box-orange .stat-hex { color: var(--color-orange); }
@@ -186,8 +201,10 @@ main { max-width: 1176px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
 .carousel-slide {
   position: absolute;
   inset: 0;
-  background-size: cover;
-  background-position: center;
+  background-color: var(--color-bg-raised);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right center;
   opacity: 0;
   visibility: hidden;
   transition: opacity 0.5s ease;
@@ -239,20 +256,49 @@ main { max-width: 1176px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
 .carousel-dots { display: flex; justify-content: center; gap: 0.5rem; padding: 0.85rem; background: var(--color-bg-raised); }
 .carousel-dot { width: 8px; height: 8px; border-radius: 50%; border: none; background: var(--color-border); cursor: pointer; padding: 0; }
 .carousel-dot.active { background: var(--color-cyan); width: 22px; border-radius: 4px; transition: width 0.2s ease; }
+.carousel-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 2;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(13, 17, 23, 0.6);
+  color: #fff;
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s ease;
+}
+.carousel-nav:hover { background: rgba(13, 17, 23, 0.85); }
+.carousel-nav-prev { left: 0.75rem; }
+.carousel-nav-next { right: 0.75rem; }
 
 @media (max-width: 640px) {
-  .carousel-overlay { align-items: flex-start; }
+  .carousel-overlay {
+    align-items: flex-start;
+    background: linear-gradient(180deg, rgba(13,17,23,0.55) 0%, rgba(13,17,23,0.97) 30%, rgba(13,17,23,0.97) 100%);
+  }
   .carousel-stats { align-items: flex-start; text-align: left; }
+  .carousel-slide { background-position: center top; }
+  .carousel-nav { width: 30px; height: 30px; font-size: 1.15rem; }
 }
 
 /* --- Wide "Performance Metrics" stat box --- */
 .stat-box-wide { grid-column: span 2; }
 .stat-box-wide .stat-name { margin-bottom: 0.5rem; }
+.stat-name-link { color: var(--color-text); text-decoration: none; }
+.stat-name-link:hover { color: var(--color-cyan); text-decoration: none; }
 .metric-mini-list { display: flex; flex-direction: column; gap: 0.4rem; width: 100%; }
 .metric-mini-row {
   display: flex;
-  align-items: baseline;
-  gap: 0.5rem;
+  align-items: center;
+  gap: 0.6rem;
   padding: 0.45rem 0.7rem;
   border: 1px solid var(--color-border);
   border-left: 3px solid var(--color-border);
@@ -261,14 +307,29 @@ main { max-width: 1176px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
   text-decoration: none;
 }
 .metric-mini-row:hover { text-decoration: none; border-color: var(--color-muted); }
+.metric-mini-link {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex: 1;
+  min-width: 0;
+  text-decoration: none;
+  color: inherit;
+}
+.metric-mini-link:hover { text-decoration: none; }
+.metric-mini-icon { width: 26px; height: 26px; flex-shrink: 0; }
+.metric-mini-text { display: flex; align-items: baseline; gap: 0.5rem; }
 .metric-mini-row strong { font-size: 0.9rem; }
 .metric-mini-row span { color: var(--color-muted); font-size: 0.82rem; }
 .metric-mini-vpi { border-left-color: var(--color-vpi); }
 .metric-mini-vpi strong { color: var(--color-vpi); }
+.metric-mini-vpi .metric-mini-icon { color: var(--color-vpi); }
 .metric-mini-dmi { border-left-color: var(--color-dmi); }
 .metric-mini-dmi strong { color: var(--color-dmi); }
+.metric-mini-dmi .metric-mini-icon { color: var(--color-dmi); }
 .metric-mini-er { border-left-color: var(--color-er); }
 .metric-mini-er strong { color: var(--color-er); }
+.metric-mini-er .metric-mini-icon { color: var(--color-er); }
 
 /* --- Cards / grids --- */
 .race-grid {
@@ -307,6 +368,92 @@ main { max-width: 1176px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
 .race-card-name { font-weight: 700; }
 .race-card-meta { color: var(--color-muted); font-size: 0.85rem; }
 
+/* --- Event hub header: small icon + name, like the site logo --- */
+.event-header { display: flex; align-items: center; gap: 1rem; margin-bottom: 0.5rem; }
+.event-icon {
+  width: 70px;
+  height: 70px;
+  border-radius: 12px;
+  object-fit: cover;
+  flex-shrink: 0;
+  background: var(--color-bg-raised);
+}
+.event-header h1 { margin: 0; }
+
+/* --- Events index: dense icon grid, 4-6 per row --- */
+.event-grid {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 1rem;
+}
+.event-card a {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  padding: 0.75rem;
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  background: var(--color-bg-raised);
+  text-decoration: none;
+  color: var(--color-text);
+  height: 100%;
+  transition: border-color 0.15s ease;
+}
+.event-card a:hover { border-color: var(--color-cyan); }
+.event-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+  background: #000;
+}
+.event-card-name { font-weight: 700; }
+.event-card-meta { color: var(--color-muted); font-size: 0.85rem; }
+
+/* --- Event hub: distances side by side, each with its own posts --- */
+.event-distances {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+.event-distance-col h2 { margin: 0 0 0.25rem; }
+.event-distance-col h2 a { color: var(--color-text); text-decoration: none; }
+.event-distance-col h2 a:hover { color: var(--color-cyan); }
+.event-post-empty { color: var(--color-muted); font-size: 0.9rem; }
+
+.race-posts { margin: 1.5rem 0 2rem; }
+.race-posts h2 { margin-bottom: 0.5rem; }
+
+/* --- Post rows with thumbnail: event hub columns + race "Latest Posts" --- */
+.post-row-list { list-style: none; padding: 0; margin: 1rem 0 0; }
+.post-row-list li { border-bottom: 1px solid var(--color-border); }
+.post-row-list a {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  padding: 0.6rem 0;
+  text-decoration: none;
+  color: var(--color-text);
+}
+.post-row-list a:hover .post-row-title { color: var(--color-cyan); }
+.post-row-list img,
+.post-row-placeholder {
+  width: 48px;
+  height: 48px;
+  border-radius: 6px;
+  object-fit: cover;
+  flex-shrink: 0;
+  background: var(--color-bg-raised);
+}
+.post-row-text { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; }
+.post-row-title { font-weight: 600; }
+.post-row-meta { color: var(--color-muted); font-size: 0.85rem; }
+
 /* --- Athletes directory: alphabetical, for scaling past 100+ profiles --- */
 .alpha-jump {
   display: flex;
@@ -340,7 +487,20 @@ main { max-width: 1176px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
   scroll-margin-top: 4rem;
 }
 
-.athlete-list { list-style: none; padding: 0; margin: 0 0 0.5rem; }
+.athlete-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 0.5rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0 1.5rem;
+}
+@media (max-width: 800px) {
+  .athlete-list { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 520px) {
+  .athlete-list { grid-template-columns: 1fr; }
+}
 .athlete-row a {
   display: flex;
   align-items: center;
@@ -362,10 +522,21 @@ main { max-width: 1176px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
 }
 .athlete-row-name { font-weight: 600; }
 .athlete-row-meta { color: var(--color-muted); font-size: 0.85rem; margin-left: auto; }
+.athlete-row img.athlete-row-flag {
+  width: 22px; height: 16px; border-radius: 2px; object-fit: cover; margin-left: auto;
+}
 
 /* --- Race / athlete detail pages --- */
 .race-hero, .elevation-profile {
   width: 100%;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  background: #000;
+}
+.post-hero {
+  max-width: 260px;
+  width: 100%;
+  display: block;
   border-radius: 10px;
   margin-bottom: 1rem;
   background: #000;
@@ -444,6 +615,7 @@ main { max-width: 1176px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
   border: 2px solid var(--color-border);
 }
 .athlete-meta { color: var(--color-muted); margin: 0.15rem 0 0; }
+.athlete-country-flag { width: 24px; height: 18px; object-fit: cover; border-radius: 2px; vertical-align: middle; }
 
 .career-avg-section {
   display: flex;
@@ -627,4 +799,69 @@ tbody tr:hover { background: var(--color-bg-raised); }
 @media (max-width: 600px) {
   .hero .tagline { font-size: 1.1rem; }
   .stats-list { gap: 1.25rem; }
+}
+
+/* --- Video explainer: small play trigger + popup modal --- */
+.video-trigger {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 1px solid currentColor;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  padding: 0;
+  flex-shrink: 0;
+  vertical-align: middle;
+}
+.video-trigger:hover { opacity: 0.75; }
+.video-trigger svg { margin-left: 1px; }
+
+.metric-accordion summary .video-trigger { margin-left: 0.5rem; }
+
+.video-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+}
+.video-modal[hidden] { display: none; }
+.video-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+}
+.video-modal-panel {
+  position: relative;
+  width: min(900px, 100%);
+  background: var(--color-bg-raised);
+  border-radius: 12px;
+  padding: 0.75rem;
+  z-index: 1;
+}
+.video-modal-close {
+  position: absolute;
+  top: -2.75rem;
+  right: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1px solid var(--color-border);
+  background: var(--color-bg-raised);
+  color: var(--color-text);
+  font-size: 1.2rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.video-modal-panel video {
+  width: 100%;
+  max-height: 80vh;
+  border-radius: 8px;
+  display: block;
 }
