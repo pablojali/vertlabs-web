@@ -99,16 +99,16 @@
   <div class="top10-block">
     <h3>Performance by athlete</h3>
     <div class="table-scroll">
-      <table class="athlete-table">
+      <table class="athlete-table roster-table">
         <thead>
           <tr>
-            <th>Pos</th>
+            <th data-sort-key="pos">Pos</th>
             <th>Bib</th>
             <th>Athlete</th>
             <th>Time</th>
-            <th class="metric-vpi">VPI</th>
-            <th class="metric-dmi">DMI</th>
-            <th class="metric-er">ER</th>
+            <th class="metric-vpi" data-sort-key="vpi">VPI</th>
+            <th class="metric-dmi" data-sort-key="dmi">DMI</th>
+            <th class="metric-er" data-sort-key="er">ER</th>
           </tr>
         </thead>
         <tbody>
@@ -316,5 +316,6 @@
   <script src="/assets/js/carousel.js" defer></script>
   <script src="/assets/js/report-frame.js" defer></script>
   <script src="/assets/js/video-modal.js" defer></script>
+  <script src="/assets/js/roster-table.js" defer></script>
 </body>
 </html>
