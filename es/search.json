@@ -36,6 +36,11 @@
   },
   {
     "type": "race",
+    "title": "Trail Verbier St-Bernard 2026",
+    "url": "/es/races/trail-verbier-st-bernard-2026/"
+  },
+  {
+    "type": "race",
     "title": "UTMB - Mont Blanc 2025",
     "url": "/es/races/utmb-mont-blanc-2025/"
   },
@@ -103,6 +108,11 @@
     "type": "athlete",
     "title": "Allison BACA",
     "url": "/es/athletes/allison-baca/"
+  },
+  {
+    "type": "athlete",
+    "title": "Amy HUME",
+    "url": "/es/athletes/amy-hume/"
   },
   {
     "type": "athlete",
@@ -176,6 +186,11 @@
   },
   {
     "type": "athlete",
+    "title": "Anonymous",
+    "url": "/es/athletes/anonymous/"
+  },
+  {
+    "type": "athlete",
     "title": "Anthony COSTALES",
     "url": "/es/athletes/anthony-costales/"
   },
@@ -231,6 +246,11 @@
   },
   {
     "type": "athlete",
+    "title": "Aurelie FERRERAS",
+    "url": "/es/athletes/aurelie-ferreras/"
+  },
+  {
+    "type": "athlete",
     "title": "Aurelien DUNAND PALLAZ",
     "url": "/es/athletes/aurelien-dunand-pallaz/"
   },
@@ -268,6 +288,11 @@
     "type": "athlete",
     "title": "Bastien ENJALBERT",
     "url": "/es/athletes/bastien-enjalbert/"
+  },
+  {
+    "type": "athlete",
+    "title": "Bastien FLEURY",
+    "url": "/es/athletes/bastien-fleury/"
   },
   {
     "type": "athlete",
@@ -411,6 +436,11 @@
   },
   {
     "type": "athlete",
+    "title": "Cyrielle BARONI",
+    "url": "/es/athletes/cyrielle-baroni/"
+  },
+  {
+    "type": "athlete",
     "title": "Daniel LUQUE GONZALEZ",
     "url": "/es/athletes/daniel-luque-gonzalez/"
   },
@@ -536,8 +566,18 @@
   },
   {
     "type": "athlete",
+    "title": "Florentin PICQ",
+    "url": "/es/athletes/florentin-picq/"
+  },
+  {
+    "type": "athlete",
     "title": "Florian DESCAMPS",
     "url": "/es/athletes/florian-descamps/"
+  },
+  {
+    "type": "athlete",
+    "title": "Florian PETIT",
+    "url": "/es/athletes/florian-petit/"
   },
   {
     "type": "athlete",
@@ -616,6 +656,11 @@
   },
   {
     "type": "athlete",
+    "title": "Hélène DASSY",
+    "url": "/es/athletes/helene-dassy/"
+  },
+  {
+    "type": "athlete",
     "title": "Héloïse BLANCHARD",
     "url": "/es/athletes/heloise-blanchard/"
   },
@@ -691,6 +736,11 @@
   },
   {
     "type": "athlete",
+    "title": "Jules HENRY",
+    "url": "/es/athletes/jules-henry/"
+  },
+  {
+    "type": "athlete",
     "title": "Julia HARNIE",
     "url": "/es/athletes/julia-harnie/"
   },
@@ -706,6 +756,11 @@
   },
   {
     "type": "athlete",
+    "title": "Justyna WITEK",
+    "url": "/es/athletes/justyna-witek/"
+  },
+  {
+    "type": "athlete",
     "title": "Kamil LEŚNIAK",
     "url": "/es/athletes/kamil-lesniak/"
   },
@@ -713,6 +768,11 @@
     "type": "athlete",
     "title": "Kaori TAKEICHI",
     "url": "/es/athletes/kaori-takeichi/"
+  },
+  {
+    "type": "athlete",
+    "title": "Karis BROWN",
+    "url": "/es/athletes/karis-brown/"
   },
   {
     "type": "athlete",
@@ -776,8 +836,18 @@
   },
   {
     "type": "athlete",
+    "title": "Laurent MARQUIS",
+    "url": "/es/athletes/laurent-marquis/"
+  },
+  {
+    "type": "athlete",
     "title": "Léa DUHET",
     "url": "/es/athletes/lea-duhet/"
+  },
+  {
+    "type": "athlete",
+    "title": "Lenka POLACKOVA",
+    "url": "/es/athletes/lenka-polackova/"
   },
   {
     "type": "athlete",
@@ -868,6 +938,11 @@
     "type": "athlete",
     "title": "Maite MAIORA ELIZONDO",
     "url": "/es/athletes/maite-maiora-elizondo/"
+  },
+  {
+    "type": "athlete",
+    "title": "Maïté MICHAUD",
+    "url": "/es/athletes/maite-michaud/"
   },
   {
     "type": "athlete",
@@ -1031,6 +1106,11 @@
   },
   {
     "type": "athlete",
+    "title": "Nicolas DAUVERGNE",
+    "url": "/es/athletes/nicolas-dauvergne/"
+  },
+  {
+    "type": "athlete",
     "title": "Nicolas GOURDON",
     "url": "/es/athletes/nicolas-gourdon/"
   },
@@ -1068,6 +1148,11 @@
     "type": "athlete",
     "title": "Pierrick PAILLOT",
     "url": "/es/athletes/pierrick-paillot/"
+  },
+  {
+    "type": "athlete",
+    "title": "Quentin BÉTRISEY",
+    "url": "/es/athletes/quentin-betrisey/"
   },
   {
     "type": "athlete",
@@ -1221,6 +1306,11 @@
   },
   {
     "type": "athlete",
+    "title": "Thomas CALLENS",
+    "url": "/es/athletes/thomas-callens/"
+  },
+  {
+    "type": "athlete",
     "title": "Thomas DUVIVIER",
     "url": "/es/athletes/thomas-duvivier/"
   },
@@ -1238,6 +1328,11 @@
     "type": "athlete",
     "title": "Tom EVANS",
     "url": "/es/athletes/tom-evans/"
+  },
+  {
+    "type": "athlete",
+    "title": "Tony LAZZAROTTO",
+    "url": "/es/athletes/tony-lazzarotto/"
   },
   {
     "type": "athlete",
