@@ -16,6 +16,11 @@
   },
   {
     "type": "race",
+    "title": "Marathon du Mont Blanc 2026",
+    "url": "/es/races/marathon-du-mont-blanc-2026/"
+  },
+  {
+    "type": "race",
     "title": "Monterosa Walserwaeg  - 120k 2026",
     "url": "/es/races/monterosa-walserwaeg-120k/"
   },
@@ -196,6 +201,11 @@
   },
   {
     "type": "athlete",
+    "title": "Audrey TANGUY",
+    "url": "/es/athletes/audrey-tanguy/"
+  },
+  {
+    "type": "athlete",
     "title": "Aurelien DUNAND PALLAZ",
     "url": "/es/athletes/aurelien-dunand-pallaz/"
   },
@@ -206,8 +216,18 @@
   },
   {
     "type": "athlete",
+    "title": "Baptiste CHASSAGNE",
+    "url": "/es/athletes/baptiste-chassagne/"
+  },
+  {
+    "type": "athlete",
     "title": "Baptiste COATANTIEC",
     "url": "/es/athletes/baptiste-coatantiec/"
+  },
+  {
+    "type": "athlete",
+    "title": "Baptiste ELLMENREICH",
+    "url": "/es/athletes/baptiste-ellmenreich/"
   },
   {
     "type": "athlete",
@@ -266,6 +286,11 @@
   },
   {
     "type": "athlete",
+    "title": "Candice FERTIN BACCON",
+    "url": "/es/athletes/candice-fertin-baccon/"
+  },
+  {
+    "type": "athlete",
     "title": "Canhua LUO",
     "url": "/es/athletes/canhua-luo/"
   },
@@ -278,6 +303,11 @@
     "type": "athlete",
     "title": "Carolina RIUS",
     "url": "/es/athletes/carolina-rius/"
+  },
+  {
+    "type": "athlete",
+    "title": "Céline FINAS",
+    "url": "/es/athletes/celine-finas/"
   },
   {
     "type": "athlete",
@@ -331,6 +361,11 @@
   },
   {
     "type": "athlete",
+    "title": "Cristian MINOGGIO",
+    "url": "/es/athletes/cristian-minoggio/"
+  },
+  {
+    "type": "athlete",
     "title": "Cristina FILIPPINI",
     "url": "/es/athletes/cristina-filippini/"
   },
@@ -368,6 +403,16 @@
     "type": "athlete",
     "title": "Drew HOLMEN",
     "url": "/es/athletes/drew-holmen/"
+  },
+  {
+    "type": "athlete",
+    "title": "Ekaterina MITYAEVA",
+    "url": "/es/athletes/ekaterina-mityaeva/"
+  },
+  {
+    "type": "athlete",
+    "title": "Elea KOPF",
+    "url": "/es/athletes/elea-kopf/"
   },
   {
     "type": "athlete",
@@ -706,6 +751,11 @@
   },
   {
     "type": "athlete",
+    "title": "Louison COIFFET",
+    "url": "/es/athletes/louison-coiffet/"
+  },
+  {
+    "type": "athlete",
     "title": "Lucy BARTHOLOMEW",
     "url": "/es/athletes/lucy-bartholomew/"
   },
@@ -713,6 +763,11 @@
     "type": "athlete",
     "title": "Ludovic POMMERET",
     "url": "/es/athletes/ludovic-pommeret/"
+  },
+  {
+    "type": "athlete",
+    "title": "Luisa DEMATTEIS",
+    "url": "/es/athletes/luisa-dematteis/"
   },
   {
     "type": "athlete",
@@ -751,6 +806,11 @@
   },
   {
     "type": "athlete",
+    "title": "Marcela VASINOVA",
+    "url": "/es/athletes/marcela-vasinova/"
+  },
+  {
+    "type": "athlete",
     "title": "Marcin RZESZÓTKO",
     "url": "/es/athletes/marcin-rzeszotko/"
   },
@@ -773,6 +833,11 @@
     "type": "athlete",
     "title": "Marie HOUDUSSE",
     "url": "/es/athletes/marie-houdusse/"
+  },
+  {
+    "type": "athlete",
+    "title": "Marie JAULIN",
+    "url": "/es/athletes/marie-jaulin/"
   },
   {
     "type": "athlete",
@@ -851,6 +916,11 @@
   },
   {
     "type": "athlete",
+    "title": "Miguel ARSÉNIO",
+    "url": "/es/athletes/miguel-arsenio/"
+  },
+  {
+    "type": "athlete",
     "title": "Mireia PONS",
     "url": "/es/athletes/mireia-pons/"
   },
@@ -878,6 +948,11 @@
     "type": "athlete",
     "title": "Nicolas GOURDON",
     "url": "/es/athletes/nicolas-gourdon/"
+  },
+  {
+    "type": "athlete",
+    "title": "Noor VAN DER VEEN",
+    "url": "/es/athletes/noor-van-der-veen/"
   },
   {
     "type": "athlete",
@@ -1073,6 +1148,11 @@
     "type": "athlete",
     "title": "Veronika LENG",
     "url": "/es/athletes/veronika-leng/"
+  },
+  {
+    "type": "athlete",
+    "title": "Vincent ESMIOL",
+    "url": "/es/athletes/vincent-esmiol/"
   },
   {
     "type": "athlete",
