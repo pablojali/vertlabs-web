@@ -41,6 +41,11 @@
   },
   {
     "type": "race",
+    "title": "Trail Verbier St-Bernard 2026",
+    "url": "/es/races/trail-verbier-st-bernard-2026/"
+  },
+  {
+    "type": "race",
     "title": "UTMB - Mont Blanc 2025",
     "url": "/es/races/utmb-mont-blanc-2025/"
   },
@@ -91,8 +96,18 @@
   },
   {
     "type": "athlete",
+    "title": "Aleix TODA MAS",
+    "url": "/es/athletes/aleix-toda-mas/"
+  },
+  {
+    "type": "athlete",
     "title": "Alejandro MAYOR",
     "url": "/es/athletes/alejandro-mayor/"
+  },
+  {
+    "type": "athlete",
+    "title": "Alex GERMAIN",
+    "url": "/es/athletes/alex-germain/"
   },
   {
     "type": "athlete",
@@ -183,6 +198,11 @@
     "type": "athlete",
     "title": "Anne FRANCHET",
     "url": "/es/athletes/anne-franchet/"
+  },
+  {
+    "type": "athlete",
+    "title": "Annelyse ANDRÉ",
+    "url": "/es/athletes/annelyse-andre/"
   },
   {
     "type": "athlete",
@@ -306,6 +326,11 @@
   },
   {
     "type": "athlete",
+    "title": "Benjamin LEVIEUX",
+    "url": "/es/athletes/benjamin-levieux/"
+  },
+  {
+    "type": "athlete",
     "title": "Benjamin TREMONT",
     "url": "/es/athletes/benjamin-tremont/"
   },
@@ -366,6 +391,11 @@
   },
   {
     "type": "athlete",
+    "title": "Carolyn SCHALTEGGER",
+    "url": "/es/athletes/carolyn-schaltegger/"
+  },
+  {
+    "type": "athlete",
     "title": "Céline FINAS",
     "url": "/es/athletes/celine-finas/"
   },
@@ -406,6 +436,11 @@
   },
   {
     "type": "athlete",
+    "title": "Clovis CHAVEROT",
+    "url": "/es/athletes/clovis-chaverot/"
+  },
+  {
+    "type": "athlete",
     "title": "Cody LIND",
     "url": "/es/athletes/cody-lind/"
   },
@@ -418,6 +453,11 @@
     "type": "athlete",
     "title": "Corentin BUI",
     "url": "/es/athletes/corentin-bui/"
+  },
+  {
+    "type": "athlete",
+    "title": "Corentin PLAY",
+    "url": "/es/athletes/corentin-play/"
   },
   {
     "type": "athlete",
@@ -691,6 +731,11 @@
   },
   {
     "type": "athlete",
+    "title": "Jean-Philippe TSCHUMI",
+    "url": "/es/athletes/jean-philippe-tschumi/"
+  },
+  {
+    "type": "athlete",
     "title": "Jérôme VANDERSCHAEGHE",
     "url": "/es/athletes/jerome-vanderschaeghe/"
   },
@@ -876,6 +921,11 @@
   },
   {
     "type": "athlete",
+    "title": "Lisa GREMAUD",
+    "url": "/es/athletes/lisa-gremaud/"
+  },
+  {
+    "type": "athlete",
     "title": "Lluís SALCEDO BENEDICTO",
     "url": "/es/athletes/lluis-salcedo-benedicto/"
   },
@@ -896,8 +946,23 @@
   },
   {
     "type": "athlete",
+    "title": "Louis TRAVAILLOT",
+    "url": "/es/athletes/louis-travaillot/"
+  },
+  {
+    "type": "athlete",
     "title": "Louison COIFFET",
     "url": "/es/athletes/louison-coiffet/"
+  },
+  {
+    "type": "athlete",
+    "title": "Lucie JAMSIN",
+    "url": "/es/athletes/lucie-jamsin/"
+  },
+  {
+    "type": "athlete",
+    "title": "Lucile BESSON",
+    "url": "/es/athletes/lucile-besson/"
   },
   {
     "type": "athlete",
@@ -1041,6 +1106,11 @@
   },
   {
     "type": "athlete",
+    "title": "Matthieu MELON",
+    "url": "/es/athletes/matthieu-melon/"
+  },
+  {
+    "type": "athlete",
     "title": "Matthis GRANET",
     "url": "/es/athletes/matthis-granet/"
   },
@@ -1078,6 +1148,11 @@
     "type": "athlete",
     "title": "Mireia PONS",
     "url": "/es/athletes/mireia-pons/"
+  },
+  {
+    "type": "athlete",
+    "title": "Miria MEINHEIT",
+    "url": "/es/athletes/miria-meinheit/"
   },
   {
     "type": "athlete",
@@ -1128,6 +1203,11 @@
     "type": "athlete",
     "title": "Pau RIUS",
     "url": "/es/athletes/pau-rius/"
+  },
+  {
+    "type": "athlete",
+    "title": "Pauline GEX",
+    "url": "/es/athletes/pauline-gex/"
   },
   {
     "type": "athlete",
@@ -1226,6 +1306,11 @@
   },
   {
     "type": "athlete",
+    "title": "Sébastien REY",
+    "url": "/es/athletes/sebastien-rey/"
+  },
+  {
+    "type": "athlete",
     "title": "Simon METTETAL",
     "url": "/es/athletes/simon-mettetal/"
   },
@@ -1238,6 +1323,11 @@
     "type": "athlete",
     "title": "Simone CORSINI",
     "url": "/es/athletes/simone-corsini/"
+  },
+  {
+    "type": "athlete",
+    "title": "Siona DALCOLMO",
+    "url": "/es/athletes/siona-dalcolmo/"
   },
   {
     "type": "athlete",
@@ -1303,6 +1393,11 @@
     "type": "athlete",
     "title": "Thibaut GARRIVIER",
     "url": "/es/athletes/thibaut-garrivier/"
+  },
+  {
+    "type": "athlete",
+    "title": "Thijs DE LANGE",
+    "url": "/es/athletes/thijs-de-lange/"
   },
   {
     "type": "athlete",
