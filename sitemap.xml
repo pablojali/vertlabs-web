@@ -91,6 +91,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/search/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/analysis/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/analysis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/analysis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/analysis/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/analysis/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/analysis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/analysis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/analysis/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/analysis/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/analysis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/analysis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/analysis/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/races/eiger-ultra-trail-2026/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/eiger-ultra-trail-2026/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/eiger-ultra-trail-2026/"/>
@@ -215,6 +233,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/utmb-mont-blanc-2025/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/utmb-mont-blanc-2025/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/utmb-mont-blanc-2025/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/races/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/races/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/races/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/races/utmb-mont-blanc-2026/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/races/val-d-aran-by-utmb-2026/</loc>
@@ -397,6 +433,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/adrien-briffod/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/adrien-jacques/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/adrien-jacques/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/adrien-jacques/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/adrien-jacques/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/adrien-jacques/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/adrien-jacques/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/adrien-jacques/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/adrien-jacques/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/adrien-jacques/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/adrien-jacques/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/adrien-jacques/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/adrien-jacques/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/agathe-bes/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/agathe-bes/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/agathe-bes/"/>
@@ -523,6 +577,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alexandra-cassan-ferrier/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/alice-meignie/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alice-meignie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alice-meignie/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alice-meignie/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/alice-meignie/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alice-meignie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alice-meignie/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alice-meignie/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/alice-meignie/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alice-meignie/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alice-meignie/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alice-meignie/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/alina-wylezalek/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alina-wylezalek/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alina-wylezalek/"/>
@@ -557,6 +629,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/allison-baca/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/allison-baca/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/allison-baca/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/alyssa-clark/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alyssa-clark/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alyssa-clark/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alyssa-clark/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/alyssa-clark/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alyssa-clark/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alyssa-clark/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alyssa-clark/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/alyssa-clark/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alyssa-clark/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alyssa-clark/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alyssa-clark/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/amy-hume/</loc>
@@ -1135,6 +1225,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/aurelien-dunand-pallaz/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/aurore-dacier/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/aurore-dacier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/aurore-dacier/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/aurore-dacier/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/aurore-dacier/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/aurore-dacier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/aurore-dacier/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/aurore-dacier/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/aurore-dacier/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/aurore-dacier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/aurore-dacier/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/aurore-dacier/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/aymeric-damour/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/aymeric-damour/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/aymeric-damour/"/>
@@ -1423,6 +1531,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/blandine-l-hirondel/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/blandine-orsini/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/blandine-orsini/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/blandine-orsini/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/blandine-orsini/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/blandine-orsini/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/blandine-orsini/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/blandine-orsini/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/blandine-orsini/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/blandine-orsini/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/blandine-orsini/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/blandine-orsini/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/blandine-orsini/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/bogdan-ibanescu/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/bogdan-ibanescu/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/bogdan-ibanescu/"/>
@@ -1655,6 +1781,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/charlotte-gouteyron/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/charlotte-gouteyron/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/charlotte-gouteyron/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/christine-selman/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/christine-selman/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/christine-selman/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/christine-selman/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/christine-selman/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/christine-selman/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/christine-selman/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/christine-selman/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/christine-selman/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/christine-selman/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/christine-selman/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/christine-selman/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/claire-bannwarth/</loc>
@@ -2053,6 +2197,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/davide-cheraz/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/davide-rivero/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/davide-rivero/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/davide-rivero/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/davide-rivero/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/davide-rivero/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/davide-rivero/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/davide-rivero/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/davide-rivero/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/davide-rivero/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/davide-rivero/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/davide-rivero/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/davide-rivero/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/delbi-villa-gongora/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/delbi-villa-gongora/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/delbi-villa-gongora/"/>
@@ -2393,6 +2555,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/ethan-peters/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/ethan-peters/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/ethan-peters/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/eva-maria-sperger/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/eva-maria-sperger/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/eva-maria-sperger/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/eva-maria-sperger/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/eva-maria-sperger/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/eva-maria-sperger/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/eva-maria-sperger/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/eva-maria-sperger/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/eva-maria-sperger/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/eva-maria-sperger/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/eva-maria-sperger/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/eva-maria-sperger/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/fabien-feutrier/</loc>
@@ -3097,6 +3277,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/julen-calvo-vigara/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/jules-creuzet/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/jules-creuzet/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/jules-creuzet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/jules-creuzet/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/jules-creuzet/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/jules-creuzet/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/jules-creuzet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/jules-creuzet/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/jules-creuzet/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/jules-creuzet/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/jules-creuzet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/jules-creuzet/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/jules-henry/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/jules-henry/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/jules-henry/"/>
@@ -3149,6 +3347,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/julie-roux/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/julie-roux/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/julie-roux/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/julien-bouyoud/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/julien-bouyoud/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/julien-bouyoud/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/julien-bouyoud/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/julien-bouyoud/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/julien-bouyoud/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/julien-bouyoud/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/julien-bouyoud/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/julien-bouyoud/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/julien-bouyoud/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/julien-bouyoud/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/julien-bouyoud/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/junko-kageyama/</loc>
@@ -4645,6 +4861,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/nicol-guidolin/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/nicolas-court/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/nicolas-court/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/nicolas-court/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/nicolas-court/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/nicolas-court/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/nicolas-court/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/nicolas-court/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/nicolas-court/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/nicolas-court/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/nicolas-court/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/nicolas-court/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/nicolas-court/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/nicolas-dauvergne/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/nicolas-dauvergne/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/nicolas-dauvergne/"/>
@@ -4733,6 +4967,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/pau-rius/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/pau-rius/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/pau-rius/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/paul-creuzet/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/paul-creuzet/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/paul-creuzet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/paul-creuzet/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/paul-creuzet/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/paul-creuzet/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/paul-creuzet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/paul-creuzet/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/paul-creuzet/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/paul-creuzet/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/paul-creuzet/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/paul-creuzet/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/pauline-gex/</loc>
@@ -5111,6 +5363,42 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-napiwotzki/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-napiwotzki/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-napiwotzki/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/sarah-nouguier/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-nouguier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-nouguier/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-nouguier/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/sarah-nouguier/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-nouguier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-nouguier/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-nouguier/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/sarah-nouguier/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-nouguier/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-nouguier/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-nouguier/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/sarah-vieuille/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-vieuille/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-vieuille/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-vieuille/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/sarah-vieuille/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-vieuille/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-vieuille/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-vieuille/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/sarah-vieuille/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-vieuille/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-vieuille/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-vieuille/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/sebastien-rey/</loc>
@@ -6013,6 +6301,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/adrien-briffod/marathon-du-mont-blanc-2026/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/adrien-jacques/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/adrien-jacques/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/adrien-jacques/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/adrien-jacques/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/adrien-jacques/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/adrien-jacques/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/adrien-jacques/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/adrien-jacques/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/adrien-jacques/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/adrien-jacques/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/adrien-jacques/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/adrien-jacques/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/agathe-bes/lavaredo-ultra-trail-80k/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/agathe-bes/lavaredo-ultra-trail-80k/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/agathe-bes/lavaredo-ultra-trail-80k/"/>
@@ -6139,6 +6445,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alexandra-cassan-ferrier/val-d-aran-by-utmb-2026-110k/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/alice-meignie/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alice-meignie/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alice-meignie/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alice-meignie/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/alice-meignie/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alice-meignie/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alice-meignie/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alice-meignie/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/alice-meignie/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alice-meignie/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alice-meignie/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alice-meignie/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/alina-wylezalek/eiger-ultra-trail-2026/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alina-wylezalek/eiger-ultra-trail-2026/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alina-wylezalek/eiger-ultra-trail-2026/"/>
@@ -6173,6 +6497,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/allison-baca/utmb-mont-blanc-2025/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/allison-baca/utmb-mont-blanc-2025/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/allison-baca/utmb-mont-blanc-2025/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/alyssa-clark/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alyssa-clark/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alyssa-clark/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alyssa-clark/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/alyssa-clark/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alyssa-clark/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alyssa-clark/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alyssa-clark/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/alyssa-clark/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/alyssa-clark/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/alyssa-clark/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/alyssa-clark/utmb-mont-blanc-2026/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/amy-hume/trail-verbier-st-bernard-2026/</loc>
@@ -6805,6 +7147,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/aurelien-dunand-pallaz/utmb-mont-blanc-2025/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/aurore-dacier/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/aurore-dacier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/aurore-dacier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/aurore-dacier/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/aurore-dacier/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/aurore-dacier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/aurore-dacier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/aurore-dacier/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/aurore-dacier/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/aurore-dacier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/aurore-dacier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/aurore-dacier/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/aymeric-damour/monterosa-walserwaeg-by-utmb-2026/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/aymeric-damour/monterosa-walserwaeg-by-utmb-2026/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/aymeric-damour/monterosa-walserwaeg-by-utmb-2026/"/>
@@ -7129,6 +7489,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/blandine-l-hirondel/utmb-mont-blanc-2025/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/blandine-orsini/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/blandine-orsini/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/blandine-orsini/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/blandine-orsini/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/blandine-orsini/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/blandine-orsini/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/blandine-orsini/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/blandine-orsini/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/blandine-orsini/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/blandine-orsini/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/blandine-orsini/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/blandine-orsini/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/bogdan-ibanescu/lavaredo-ultra-trail-80k/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/bogdan-ibanescu/lavaredo-ultra-trail-80k/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/bogdan-ibanescu/lavaredo-ultra-trail-80k/"/>
@@ -7361,6 +7739,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/charlotte-gouteyron/trail-du-saint-jacques-by-utmb-2026/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/charlotte-gouteyron/trail-du-saint-jacques-by-utmb-2026/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/charlotte-gouteyron/trail-du-saint-jacques-by-utmb-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/christine-selman/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/christine-selman/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/christine-selman/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/christine-selman/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/christine-selman/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/christine-selman/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/christine-selman/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/christine-selman/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/christine-selman/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/christine-selman/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/christine-selman/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/christine-selman/utmb-mont-blanc-2026/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/claire-bannwarth/monterosa-walserwaeg-120k/</loc>
@@ -7813,6 +8209,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/davide-cheraz/utmb-mont-blanc-2025/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/davide-rivero/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/davide-rivero/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/davide-rivero/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/davide-rivero/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/davide-rivero/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/davide-rivero/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/davide-rivero/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/davide-rivero/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/davide-rivero/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/davide-rivero/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/davide-rivero/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/davide-rivero/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/drew-holmen/utmb-mont-blanc-2025/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/drew-holmen/utmb-mont-blanc-2025/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/drew-holmen/utmb-mont-blanc-2025/"/>
@@ -8155,6 +8569,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/ethan-peters/lavaredo-ultra-trail-120k/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/eva-maria-sperger/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/eva-maria-sperger/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/eva-maria-sperger/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/eva-maria-sperger/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/eva-maria-sperger/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/eva-maria-sperger/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/eva-maria-sperger/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/eva-maria-sperger/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/eva-maria-sperger/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/eva-maria-sperger/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/eva-maria-sperger/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/eva-maria-sperger/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/fabien-feutrier/lavaredo-ultra-trail-120k/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/fabien-feutrier/lavaredo-ultra-trail-120k/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/fabien-feutrier/lavaredo-ultra-trail-120k/"/>
@@ -8171,6 +8603,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/fabien-feutrier/lavaredo-ultra-trail-120k/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/fabien-feutrier/lavaredo-ultra-trail-120k/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/fabien-feutrier/lavaredo-ultra-trail-120k/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/fabien-feutrier/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/fabien-feutrier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/fabien-feutrier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/fabien-feutrier/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/fabien-feutrier/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/fabien-feutrier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/fabien-feutrier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/fabien-feutrier/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/fabien-feutrier/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/fabien-feutrier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/fabien-feutrier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/fabien-feutrier/utmb-mont-blanc-2026/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/fiona-pascall/utmb-mont-blanc-2025/</loc>
@@ -8857,6 +9307,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/julen-calvo-vigara/val-d-aran-by-utmb-2026-110k/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/jules-creuzet/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/jules-creuzet/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/jules-creuzet/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/jules-creuzet/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/jules-creuzet/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/jules-creuzet/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/jules-creuzet/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/jules-creuzet/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/jules-creuzet/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/jules-creuzet/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/jules-creuzet/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/jules-creuzet/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/jules-henry/trail-verbier-st-bernard-2026/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/jules-henry/trail-verbier-st-bernard-2026/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/jules-henry/trail-verbier-st-bernard-2026/"/>
@@ -8909,6 +9377,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/julie-roux/utmb-mont-blanc-2025/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/julie-roux/utmb-mont-blanc-2025/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/julie-roux/utmb-mont-blanc-2025/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/julien-bouyoud/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/julien-bouyoud/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/julien-bouyoud/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/julien-bouyoud/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/julien-bouyoud/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/julien-bouyoud/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/julien-bouyoud/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/julien-bouyoud/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/julien-bouyoud/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/julien-bouyoud/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/julien-bouyoud/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/julien-bouyoud/utmb-mont-blanc-2026/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/junko-kageyama/val-d-aran-by-utmb-2026-163k/</loc>
@@ -9379,6 +9865,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/lisa-borzani/monterosa-walserwaeg-120k/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/lisa-borzani/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/lisa-borzani/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/lisa-borzani/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/lisa-borzani/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/lisa-borzani/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/lisa-borzani/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/lisa-borzani/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/lisa-borzani/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/lisa-borzani/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/lisa-borzani/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/lisa-borzani/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/lisa-borzani/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/lisa-gremaud/trail-verbier-st-bernard-2026/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/lisa-gremaud/trail-verbier-st-bernard-2026/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/lisa-gremaud/trail-verbier-st-bernard-2026/"/>
@@ -9737,6 +10241,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/mahauld-granier/monterosa-walserwaeg-by-utmb-2026/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/mahauld-granier/monterosa-walserwaeg-by-utmb-2026/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/mahauld-granier/monterosa-walserwaeg-by-utmb-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/mahauld-granier/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/mahauld-granier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/mahauld-granier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/mahauld-granier/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/mahauld-granier/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/mahauld-granier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/mahauld-granier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/mahauld-granier/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/mahauld-granier/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/mahauld-granier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/mahauld-granier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/mahauld-granier/utmb-mont-blanc-2026/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/maite-maiora-elizondo/utmb-mont-blanc-2025/</loc>
@@ -10495,6 +11017,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/nicol-guidolin/lavaredo-ultra-trail-80k/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/nicolas-court/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/nicolas-court/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/nicolas-court/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/nicolas-court/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/nicolas-court/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/nicolas-court/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/nicolas-court/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/nicolas-court/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/nicolas-court/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/nicolas-court/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/nicolas-court/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/nicolas-court/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/nicolas-dauvergne/trail-verbier-st-bernard-2026/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/nicolas-dauvergne/trail-verbier-st-bernard-2026/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/nicolas-dauvergne/trail-verbier-st-bernard-2026/"/>
@@ -10603,6 +11143,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/pau-rius/val-d-aran-by-utmb-2026-163k/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/athletes/paul-creuzet/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/paul-creuzet/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/paul-creuzet/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/paul-creuzet/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/paul-creuzet/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/paul-creuzet/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/paul-creuzet/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/paul-creuzet/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/paul-creuzet/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/paul-creuzet/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/paul-creuzet/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/paul-creuzet/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/athletes/pauline-gex/trail-verbier-st-bernard-2026/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/pauline-gex/trail-verbier-st-bernard-2026/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/pauline-gex/trail-verbier-st-bernard-2026/"/>
@@ -10655,6 +11213,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/pierre-adrien-hivert/lavaredo-ultra-trail-80k/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/pierre-adrien-hivert/lavaredo-ultra-trail-80k/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/pierre-adrien-hivert/lavaredo-ultra-trail-80k/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/pierre-adrien-hivert/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/pierre-adrien-hivert/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/pierre-adrien-hivert/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/pierre-adrien-hivert/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/pierre-adrien-hivert/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/pierre-adrien-hivert/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/pierre-adrien-hivert/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/pierre-adrien-hivert/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/pierre-adrien-hivert/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/pierre-adrien-hivert/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/pierre-adrien-hivert/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/pierre-adrien-hivert/utmb-mont-blanc-2026/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/pierre-galbourdin/marathon-du-mont-blanc-2026/</loc>
@@ -10763,6 +11339,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/remy-brassac/val-d-aran-by-utmb-2026-110k/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/remy-brassac/val-d-aran-by-utmb-2026-110k/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/remy-brassac/val-d-aran-by-utmb-2026-110k/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/remy-brassac/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/remy-brassac/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/remy-brassac/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/remy-brassac/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/remy-brassac/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/remy-brassac/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/remy-brassac/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/remy-brassac/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/remy-brassac/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/remy-brassac/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/remy-brassac/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/remy-brassac/utmb-mont-blanc-2026/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/robin-challamel/monterosa-walserwaeg-by-utmb-2026/</loc>
@@ -10997,6 +11591,42 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-napiwotzki/lavaredo-ultra-trail-120k/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-napiwotzki/lavaredo-ultra-trail-120k/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-napiwotzki/lavaredo-ultra-trail-120k/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/sarah-nouguier/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-nouguier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-nouguier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-nouguier/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/sarah-nouguier/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-nouguier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-nouguier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-nouguier/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/sarah-nouguier/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-nouguier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-nouguier/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-nouguier/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/sarah-vieuille/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-vieuille/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-vieuille/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-vieuille/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/sarah-vieuille/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-vieuille/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-vieuille/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-vieuille/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/sarah-vieuille/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/sarah-vieuille/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/sarah-vieuille/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/sarah-vieuille/utmb-mont-blanc-2026/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/sebastien-rey/trail-verbier-st-bernard-2026/</loc>
@@ -11339,6 +11969,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/thibault-merat/trail-du-saint-jacques-by-utmb-2026/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/thibault-merat/trail-du-saint-jacques-by-utmb-2026/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/thibault-merat/trail-du-saint-jacques-by-utmb-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/athletes/thibault-merat/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/thibault-merat/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/thibault-merat/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/thibault-merat/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/athletes/thibault-merat/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/thibault-merat/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/thibault-merat/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/thibault-merat/utmb-mont-blanc-2026/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/athletes/thibault-merat/utmb-mont-blanc-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/athletes/thibault-merat/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/athletes/thibault-merat/utmb-mont-blanc-2026/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/athletes/thibault-merat/utmb-mont-blanc-2026/"/>
   </url>
   <url>
     <loc>https://vertlabs.run/athletes/thibaut-garrivier/utmb-mont-blanc-2025/</loc>
