@@ -91,6 +91,24 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/search/"/>
   </url>
   <url>
+    <loc>https://vertlabs.run/analysis/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/analysis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/analysis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/analysis/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/es/analysis/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/analysis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/analysis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/analysis/"/>
+  </url>
+  <url>
+    <loc>https://vertlabs.run/fr/analysis/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/analysis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/analysis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vertlabs.run/fr/analysis/"/>
+  </url>
+  <url>
     <loc>https://vertlabs.run/races/eiger-ultra-trail-2026/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vertlabs.run/races/eiger-ultra-trail-2026/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://vertlabs.run/es/races/eiger-ultra-trail-2026/"/>
