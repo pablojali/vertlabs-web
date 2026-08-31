@@ -66,6 +66,11 @@
   },
   {
     "type": "race",
+    "title": "UTMB - Mont Blanc 2026",
+    "url": "/races/utmb-mont-blanc-2026/"
+  },
+  {
+    "type": "race",
     "title": "Val d'Aran by UTMB 2026",
     "url": "/races/val-d-aran-by-utmb-2026-110k/"
   },
@@ -83,6 +88,11 @@
     "type": "athlete",
     "title": "Abel CARRETERO",
     "url": "/athletes/abel-carretero/"
+  },
+  {
+    "type": "athlete",
+    "title": "Adam LOOMIS",
+    "url": "/athletes/adam-loomis/"
   },
   {
     "type": "athlete",
@@ -268,6 +278,11 @@
     "type": "athlete",
     "title": "Anthony COSTALES",
     "url": "/athletes/anthony-costales/"
+  },
+  {
+    "type": "athlete",
+    "title": "Anthony FELBER",
+    "url": "/athletes/anthony-felber/"
   },
   {
     "type": "athlete",
@@ -596,6 +611,16 @@
   },
   {
     "type": "athlete",
+    "title": "Damien HUMBERT",
+    "url": "/athletes/damien-humbert/"
+  },
+  {
+    "type": "athlete",
+    "title": "Daniel JONES",
+    "url": "/athletes/daniel-jones/"
+  },
+  {
+    "type": "athlete",
     "title": "Daniel LUQUE GONZALEZ",
     "url": "/athletes/daniel-luque-gonzalez/"
   },
@@ -821,8 +846,18 @@
   },
   {
     "type": "athlete",
+    "title": "Guillaume TIPHENE",
+    "url": "/athletes/guillaume-tiphene/"
+  },
+  {
+    "type": "athlete",
     "title": "Hannes NAMBERGER",
     "url": "/athletes/hannes-namberger/"
+  },
+  {
+    "type": "athlete",
+    "title": "Hans TROYER",
+    "url": "/athletes/hans-troyer/"
   },
   {
     "type": "athlete",
@@ -1156,6 +1191,11 @@
   },
   {
     "type": "athlete",
+    "title": "Luke GRENFELL-SHAW",
+    "url": "/athletes/luke-grenfell-shaw/"
+  },
+  {
+    "type": "athlete",
     "title": "Mael SAMZUN",
     "url": "/athletes/mael-samzun/"
   },
@@ -1293,6 +1333,11 @@
     "type": "athlete",
     "title": "Marvin FOUCHER",
     "url": "/athletes/marvin-foucher/"
+  },
+  {
+    "type": "athlete",
+    "title": "Mathieu DELPEUCH",
+    "url": "/athletes/mathieu-delpeuch/"
   },
   {
     "type": "athlete",
@@ -1448,6 +1493,11 @@
     "type": "athlete",
     "title": "Pierre GALBOURDIN",
     "url": "/athletes/pierre-galbourdin/"
+  },
+  {
+    "type": "athlete",
+    "title": "Pierre LIVACHE",
+    "url": "/athletes/pierre-livache/"
   },
   {
     "type": "athlete",
@@ -1668,6 +1718,11 @@
     "type": "athlete",
     "title": "Thomas DUVIVIER",
     "url": "/athletes/thomas-duvivier/"
+  },
+  {
+    "type": "athlete",
+    "title": "Tobias BAGGENSTOS",
+    "url": "/athletes/tobias-baggenstos/"
   },
   {
     "type": "athlete",
