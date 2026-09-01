@@ -71,6 +71,11 @@
   },
   {
     "type": "race",
+    "title": "UTMB - Mont Blanc 2026",
+    "url": "/fr/races/utmb-mont-blanc-2026/"
+  },
+  {
+    "type": "race",
     "title": "Val d'Aran by UTMB 2026",
     "url": "/fr/races/val-d-aran-by-utmb-2026-110k/"
   },
@@ -231,6 +236,11 @@
   },
   {
     "type": "athlete",
+    "title": "Andy SYMONDS",
+    "url": "/fr/athletes/andy-symonds/"
+  },
+  {
+    "type": "athlete",
     "title": "Angélique CARMINATI",
     "url": "/fr/athletes/angelique-carminati/"
   },
@@ -306,6 +316,11 @@
   },
   {
     "type": "athlete",
+    "title": "Antoine CHARVOLIN",
+    "url": "/fr/athletes/antoine-charvolin/"
+  },
+  {
+    "type": "athlete",
     "title": "Antoine LAMBOY-MARTIN",
     "url": "/fr/athletes/antoine-lamboy-martin/"
   },
@@ -353,6 +368,11 @@
     "type": "athlete",
     "title": "Arthur VANSTEENKISTE",
     "url": "/fr/athletes/arthur-vansteenkiste/"
+  },
+  {
+    "type": "athlete",
+    "title": "Aubin FERRARI",
+    "url": "/fr/athletes/aubin-ferrari/"
   },
   {
     "type": "athlete",
@@ -488,6 +508,11 @@
     "type": "athlete",
     "title": "Caitlin FIELDER",
     "url": "/fr/athletes/caitlin-fielder/"
+  },
+  {
+    "type": "athlete",
+    "title": "Caleb OLSON",
+    "url": "/fr/athletes/caleb-olson/"
   },
   {
     "type": "athlete",
@@ -966,6 +991,11 @@
   },
   {
     "type": "athlete",
+    "title": "Jérémy NION",
+    "url": "/fr/athletes/jeremy-nion/"
+  },
+  {
+    "type": "athlete",
     "title": "Jérôme VANDERSCHAEGHE",
     "url": "/fr/athletes/jerome-vanderschaeghe/"
   },
@@ -998,6 +1028,11 @@
     "type": "athlete",
     "title": "Jingyan TANG",
     "url": "/fr/athletes/jingyan-tang/"
+  },
+  {
+    "type": "athlete",
+    "title": "Joaquin LOPEZ",
+    "url": "/fr/athletes/joaquin-lopez/"
   },
   {
     "type": "athlete",
@@ -1521,6 +1556,11 @@
   },
   {
     "type": "athlete",
+    "title": "Pablo VILLA",
+    "url": "/fr/athletes/pablo-villa/"
+  },
+  {
+    "type": "athlete",
     "title": "Pau RIUS",
     "url": "/fr/athletes/pau-rius/"
   },
@@ -1573,6 +1613,11 @@
     "type": "athlete",
     "title": "Quentin BÉTRISEY",
     "url": "/fr/athletes/quentin-betrisey/"
+  },
+  {
+    "type": "athlete",
+    "title": "Raul Octaviu BUTACI",
+    "url": "/fr/athletes/raul-octaviu-butaci/"
   },
   {
     "type": "athlete",
@@ -1843,6 +1888,11 @@
     "type": "athlete",
     "title": "Vincent JADAS",
     "url": "/fr/athletes/vincent-jadas/"
+  },
+  {
+    "type": "athlete",
+    "title": "Virgile MORISET",
+    "url": "/fr/athletes/virgile-moriset/"
   },
   {
     "type": "athlete",
