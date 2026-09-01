@@ -72,13 +72,14 @@
     </button>
   </div>
   <p class="race-meta">Lavaredo Ultra Trail by UTMB - 120k 2026</p>
-  <iframe src="/media/races/lavaredo-ultra-trail-120k/charts/runners/sunmaya-budha/report.html" class="report-frame" title="Sunmaya BUDHA — Lavaredo Ultra Trail by UTMB - 120k" scrolling="no"></iframe>
 
 <section class="analysis-cta">
   <h2>Vous voulez votre propre analyse ?</h2>
   <p>Découvrez ce que votre course révèle.</p>
   <a href="/fr/analysis/" class="analysis-cta-button">Obtenez votre Analyse</a>
-</section></article>
+</section>
+  <iframe src="/media/races/lavaredo-ultra-trail-120k/charts/runners/sunmaya-budha/report.html" class="report-frame" title="Sunmaya BUDHA — Lavaredo Ultra Trail by UTMB - 120k" scrolling="no"></iframe>
+</article>
   </main>
 
   <footer class="site-footer">
@@ -94,10 +95,19 @@
     </div>
   </div>
 
+  <div id="radar-modal" class="radar-modal" hidden>
+    <div class="radar-modal-backdrop" data-radar-close></div>
+    <div class="radar-modal-panel">
+      <button type="button" class="radar-modal-close" data-radar-close aria-label="Fermer le graphique">×</button>
+      <div id="radar-modal-content" class="radar-modal-content"></div>
+    </div>
+  </div>
+
   <script src="/assets/js/search.js" defer></script>
   <script src="/assets/js/carousel.js" defer></script>
   <script src="/assets/js/report-frame.js" defer></script>
   <script src="/assets/js/video-modal.js" defer></script>
+  <script src="/assets/js/radar-modal.js" defer></script>
   <script src="/assets/js/roster-table.js" defer></script>
   <script src="/assets/js/athletes-search.js" defer></script>
   <script src="/assets/js/share.js" defer></script>

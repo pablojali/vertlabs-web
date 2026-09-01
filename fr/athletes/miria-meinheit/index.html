@@ -80,7 +80,7 @@
 
   <h2>Profil de Performance VTL</h2>
   <div class="vtl-profile-section">
-    <div class="radar-chart-wrap"><svg viewBox="0 0 220 220" class="radar-chart" role="img" aria-label="VPI/DMI/ER radar chart, one outline per analyzed race">
+    <button type="button" class="radar-chart-wrap" data-radar-trigger aria-label="Agrandir le graphique"><svg viewBox="0 0 220 220" class="radar-chart" role="img" aria-label="VPI/DMI/ER radar chart, one outline per analyzed race">
     <polygon class="radar-grid" points="110.0,83.3 133.1,123.3 86.9,123.3"/>
     <polygon class="radar-grid" points="110.0,56.7 156.2,136.7 63.8,136.7"/>
     <polygon class="radar-grid" points="110.0,30.0 179.3,150.0 40.7,150.0"/>
@@ -100,7 +100,7 @@
     <text class="radar-label radar-label-vpi" x="110.0" y="2.0" text-anchor="middle">VPI</text>
     <text class="radar-label radar-label-dmi" x="200.1" y="166.0" text-anchor="start">DMI</text>
     <text class="radar-label radar-label-er" x="19.9" y="166.0" text-anchor="end">ER</text>
-</svg></div>
+</svg></button>
     <div class="vtl-profile-details">
       <ul class="stats-list">
         <li><span class="stat-label metric-vpi">VPI<small>Montée</small></span><span class="stat-value metric-vpi">909.0</span></li>
@@ -171,10 +171,19 @@
     </div>
   </div>
 
+  <div id="radar-modal" class="radar-modal" hidden>
+    <div class="radar-modal-backdrop" data-radar-close></div>
+    <div class="radar-modal-panel">
+      <button type="button" class="radar-modal-close" data-radar-close aria-label="Fermer le graphique">×</button>
+      <div id="radar-modal-content" class="radar-modal-content"></div>
+    </div>
+  </div>
+
   <script src="/assets/js/search.js" defer></script>
   <script src="/assets/js/carousel.js" defer></script>
   <script src="/assets/js/report-frame.js" defer></script>
   <script src="/assets/js/video-modal.js" defer></script>
+  <script src="/assets/js/radar-modal.js" defer></script>
   <script src="/assets/js/roster-table.js" defer></script>
   <script src="/assets/js/athletes-search.js" defer></script>
   <script src="/assets/js/share.js" defer></script>
