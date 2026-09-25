@@ -85,6 +85,11 @@
     "url": "/fr/races/val-d-aran-by-utmb-2026-163k/"
   },
   {
+    "type": "race",
+    "title": "Wildstrubel 2026",
+    "url": "/fr/races/wildstrubel-2026/"
+  },
+  {
     "type": "athlete",
     "title": "Aasmund KJØLLMOEN STEIEN",
     "url": "/fr/athletes/aasmund-kjllmoen-steien/"
@@ -128,6 +133,11 @@
     "type": "athlete",
     "title": "Agnes JOSEFSSON",
     "url": "/fr/athletes/agnes-josefsson/"
+  },
+  {
+    "type": "athlete",
+    "title": "Agnieszka DYGACZ",
+    "url": "/fr/athletes/agnieszka-dygacz/"
   },
   {
     "type": "athlete",
@@ -296,6 +306,11 @@
   },
   {
     "type": "athlete",
+    "title": "Anne-Laure DUFOURD PEDUZZI",
+    "url": "/fr/athletes/anne-laure-dufourd-peduzzi/"
+  },
+  {
+    "type": "athlete",
     "title": "Anne-Sofie POLLESTAD",
     "url": "/fr/athletes/anne-sofie-pollestad/"
   },
@@ -323,6 +338,11 @@
     "type": "athlete",
     "title": "Anthony FELBER",
     "url": "/fr/athletes/anthony-felber/"
+  },
+  {
+    "type": "athlete",
+    "title": "Antoine APPIA",
+    "url": "/fr/athletes/antoine-appia/"
   },
   {
     "type": "athlete",
@@ -586,8 +606,18 @@
   },
   {
     "type": "athlete",
+    "title": "Céline BERNASCONI",
+    "url": "/fr/athletes/celine-bernasconi/"
+  },
+  {
+    "type": "athlete",
     "title": "Céline FINAS",
     "url": "/fr/athletes/celine-finas/"
+  },
+  {
+    "type": "athlete",
+    "title": "Charles VAN TIGGELEN",
+    "url": "/fr/athletes/charles-van-tiggelen/"
   },
   {
     "type": "athlete",
@@ -911,6 +941,11 @@
   },
   {
     "type": "athlete",
+    "title": "Gian Marchet SCHICKTANZ",
+    "url": "/fr/athletes/gian-marchet-schicktanz/"
+  },
+  {
+    "type": "athlete",
     "title": "Giuditta TURINI",
     "url": "/fr/athletes/giuditta-turini/"
   },
@@ -963,6 +998,11 @@
     "type": "athlete",
     "title": "Heather JACKSON",
     "url": "/fr/athletes/heather-jackson/"
+  },
+  {
+    "type": "athlete",
+    "title": "Hector RODRIGUEZ",
+    "url": "/fr/athletes/hector-rodriguez/"
   },
   {
     "type": "athlete",
@@ -1171,6 +1211,11 @@
   },
   {
     "type": "athlete",
+    "title": "Kevin DIDIER",
+    "url": "/fr/athletes/kevin-didier/"
+  },
+  {
+    "type": "athlete",
     "title": "Kevin KIBET",
     "url": "/fr/athletes/kevin-kibet/"
   },
@@ -1296,6 +1341,11 @@
   },
   {
     "type": "athlete",
+    "title": "Lona VOIRIN",
+    "url": "/fr/athletes/lona-voirin/"
+  },
+  {
+    "type": "athlete",
     "title": "Lorna BONNEL",
     "url": "/fr/athletes/lorna-bonnel/"
   },
@@ -1363,6 +1413,11 @@
     "type": "athlete",
     "title": "Magali MELLON",
     "url": "/fr/athletes/magali-mellon/"
+  },
+  {
+    "type": "athlete",
+    "title": "Magali VIONNET",
+    "url": "/fr/athletes/magali-vionnet/"
   },
   {
     "type": "athlete",
@@ -1461,6 +1516,11 @@
   },
   {
     "type": "athlete",
+    "title": "Marjo LIIKANEN",
+    "url": "/fr/athletes/marjo-liikanen/"
+  },
+  {
+    "type": "athlete",
     "title": "Marta SERRET",
     "url": "/fr/athletes/marta-serret/"
   },
@@ -1493,6 +1553,11 @@
     "type": "athlete",
     "title": "Mathieu DELPEUCH",
     "url": "/fr/athletes/mathieu-delpeuch/"
+  },
+  {
+    "type": "athlete",
+    "title": "Mathieu ESMIEU",
+    "url": "/fr/athletes/mathieu-esmieu/"
   },
   {
     "type": "athlete",
@@ -1603,6 +1668,11 @@
     "type": "athlete",
     "title": "Nicolas GOURDON",
     "url": "/fr/athletes/nicolas-gourdon/"
+  },
+  {
+    "type": "athlete",
+    "title": "Nino JANKI",
+    "url": "/fr/athletes/nino-janki/"
   },
   {
     "type": "athlete",
@@ -1813,6 +1883,11 @@
     "type": "athlete",
     "title": "Sonja MUITTARI",
     "url": "/fr/athletes/sonja-muittari/"
+  },
+  {
+    "type": "athlete",
+    "title": "Sophia LEHMANN",
+    "url": "/fr/athletes/sophia-lehmann/"
   },
   {
     "type": "athlete",
