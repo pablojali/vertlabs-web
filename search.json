@@ -90,6 +90,11 @@
     "url": "/races/wildstrubel-2026/"
   },
   {
+    "type": "race",
+    "title": "Wildstrubel 2026",
+    "url": "/races/wildstrubel-2026-70k/"
+  },
+  {
     "type": "athlete",
     "title": "Aasmund KJØLLMOEN STEIEN",
     "url": "/athletes/aasmund-kjllmoen-steien/"
@@ -586,6 +591,11 @@
   },
   {
     "type": "athlete",
+    "title": "Capucine ARBEZ-GINDRE",
+    "url": "/athletes/capucine-arbez-gindre/"
+  },
+  {
+    "type": "athlete",
     "title": "Careth ARNOLD",
     "url": "/athletes/careth-arnold/"
   },
@@ -766,6 +776,16 @@
   },
   {
     "type": "athlete",
+    "title": "Didier Dario CHANOINE",
+    "url": "/athletes/didier-dario-chanoine/"
+  },
+  {
+    "type": "athlete",
+    "title": "Dimitri MOREL-JEAN",
+    "url": "/athletes/dimitri-morel-jean/"
+  },
+  {
+    "type": "athlete",
     "title": "Drew HOLMEN",
     "url": "/athletes/drew-holmen/"
   },
@@ -798,6 +818,11 @@
     "type": "athlete",
     "title": "Elísa KRISTINSDÓTTIR",
     "url": "/athletes/elisa-kristinsdottir/"
+  },
+  {
+    "type": "athlete",
+    "title": "Elizabeth UNGERMANOVA",
+    "url": "/athletes/elizabeth-ungermanova/"
   },
   {
     "type": "athlete",
@@ -846,6 +871,11 @@
   },
   {
     "type": "athlete",
+    "title": "Erika FLOWERS",
+    "url": "/athletes/erika-flowers/"
+  },
+  {
+    "type": "athlete",
     "title": "Erin CLARK",
     "url": "/athletes/erin-clark/"
   },
@@ -873,6 +903,11 @@
     "type": "athlete",
     "title": "Eva Maria SPERGER",
     "url": "/athletes/eva-maria-sperger/"
+  },
+  {
+    "type": "athlete",
+    "title": "Evan ALLAN",
+    "url": "/athletes/evan-allan/"
   },
   {
     "type": "athlete",
@@ -1086,6 +1121,11 @@
   },
   {
     "type": "athlete",
+    "title": "Jessica BRAZEAU",
+    "url": "/athletes/jessica-brazeau/"
+  },
+  {
+    "type": "athlete",
     "title": "Jessica DENAIS-GAS",
     "url": "/athletes/jessica-denais-gas/"
   },
@@ -1183,6 +1223,11 @@
     "type": "athlete",
     "title": "Karis BROWN",
     "url": "/athletes/karis-brown/"
+  },
+  {
+    "type": "athlete",
+    "title": "Karol MATYSSEK",
+    "url": "/athletes/karol-matyssek/"
   },
   {
     "type": "athlete",
@@ -1378,6 +1423,11 @@
     "type": "athlete",
     "title": "Lucile BESSON",
     "url": "/athletes/lucile-besson/"
+  },
+  {
+    "type": "athlete",
+    "title": "Lucille GERMAIN",
+    "url": "/athletes/lucille-germain/"
   },
   {
     "type": "athlete",
@@ -1621,6 +1671,11 @@
   },
   {
     "type": "athlete",
+    "title": "Mimmi KOTKA",
+    "url": "/athletes/mimmi-kotka/"
+  },
+  {
+    "type": "athlete",
     "title": "Mireia PONS",
     "url": "/athletes/mireia-pons/"
   },
@@ -1628,6 +1683,11 @@
     "type": "athlete",
     "title": "Miria MEINHEIT",
     "url": "/athletes/miria-meinheit/"
+  },
+  {
+    "type": "athlete",
+    "title": "Mirjam NIEDERBERGER",
+    "url": "/athletes/mirjam-niederberger/"
   },
   {
     "type": "athlete",
@@ -1723,6 +1783,11 @@
     "type": "athlete",
     "title": "Pierre-Adrien HIVERT",
     "url": "/athletes/pierre-adrien-hivert/"
+  },
+  {
+    "type": "athlete",
+    "title": "Pierre-André ANIZAN",
+    "url": "/athletes/pierre-andre-anizan/"
   },
   {
     "type": "athlete",
@@ -1823,6 +1888,11 @@
     "type": "athlete",
     "title": "Sammy Rotich CHELANGAT",
     "url": "/athletes/sammy-rotich-chelangat/"
+  },
+  {
+    "type": "athlete",
+    "title": "Samuel EQUY",
+    "url": "/athletes/samuel-equy/"
   },
   {
     "type": "athlete",
@@ -2058,6 +2128,11 @@
     "type": "athlete",
     "title": "Wenfei XIE",
     "url": "/athletes/wenfei-xie/"
+  },
+  {
+    "type": "athlete",
+    "title": "William DÉGLISE",
+    "url": "/athletes/william-deglise/"
   },
   {
     "type": "athlete",
